@@ -1,0 +1,1621 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547 -->
+<html lang="en-US" class="no_scroll has_lightbox" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8"><!-- ^^^content1191^^^ -->
+<!-- ^^^OPS-36315^^^ -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<script type="text/javascript" async="" src="./Player1_files/ga.js"></script><script type="text/javascript">
+		
+		(function(loc) {
+			if (loc.hash == '') {return;}
+			var uri_re = /^(?:(?:[^:\/?#]+):)?(?:\/\/(?:[^\/?#]*))?([^?#]*)(?:\?([^#]*))?(?:#(.*))?/, target_domain = '';
+			loc.href.replace(uri_re, function(all, path, query, frag)
+				{
+					if (path.substr(1, 4) != 'help' && (path.substr(1,6) != 'master' || path.substr(1, 14) == 'master/content'))
+					{
+						var dst, src;
+						dst = src = path + (query ? '?' + query : '');
+						if (frag) { dst = frag.replace(/^\/+/, '/').replace(/\:/g, '/'); }
+						dst = "" + dst;
+						if (dst.charAt(0) != '/') dst = '/' + dst;
+						if (/[0-9]/.test(dst.charAt(1))) dst = '/files' + dst;
+						if (dst != src || loc.hash) { window.location.replace(target_domain + dst); }
+					}
+				});
+		})(window.location);
+	
+
+</script>
+
+
+
+										
+													
+				<style type="text/css">
+			
+						@import 'https://e1.boxcdn.net/_assets/css/section_application-UQAeN0.css';
+
+					
+							</style>
+				<link rel="stylesheet" type="text/css" href="./Player1_files/theme_22737_WUYKa8513467.css">
+					<link id="box_custom_theme_common_css" rel="stylesheet" href="./Player1_files/box_custom_theme-UDdc0E.css" type="text/css">
+					<link id="box_custom_theme_sprite_common_css" rel="stylesheet" href="./Player1_files/custom_theme-sprite-YWCjvr.css" type="text/css">
+			
+<link rel="icon" href="https://e1.boxcdn.net/_assets/img/favicon-iBN5AI.png">
+<!--[if IE]><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><![endif]-->
+<meta name="msapplication-TileColor" content="#1A74BA">
+<meta name="msapplication-TileImage" content="https://e1.boxcdn.net/_assets/img/tile_icon-wutNl1.png">
+
+<title>Player1.psd - Box</title>
+
+<meta name="keywords" content="free online storage, online storage, online file storage, share files online, photo sharing online, store documents online, retrieve documents, internet storage, online data backup, file storage, file sharing, photo sharing, online photo gallery, photos online, data backup, online backup, mobile data access, data networking, storage solution, virtual hard drive, remote backup, internet uploading, share files online, file hosting, save files, thumb drive, storage disk, remote access, web hosting, group collaboration, gigabyte of storage, gigabyte of space, group access, online disk storage, online data storage, file storage online, personal online space, secure file sharing, online photo sharing, online photos, backup data, online backup services, mobile media browser, networking &amp; data, network storage solution, internet file storage, backup remote, online file hosting.">
+       <meta name="robots" content="noindex, nofollow">
+<meta name="description" content="Collaboration tools adopted by over 50,000 companies globally. Box simplifies online file storage, replaces FTP and connects teams in online workspaces.">
+
+<!--[if lte IE 7]><meta http-equiv="Page-Enter" content="Alpha(opacity=100)"><![endif]-->
+
+<script type="text/javascript"> var hostname = 'app.box.com'
+,domain = 'box.com'
+,cookie_domain = '.box.com'
+,site_root = '/'
+,http_root = 'https://app.box.com/'
+,flash_folder = '/static/flash/'
+,widget_url = 'https://app.box.com//static/flash/box_explorer.swf'
+,embed_widget_url = 'https://app.box.com/embed_widget/'
+,cgi_url_path = '/cgi-bin/';</script>
+
+
+<script type="text/javascript"> var script_url = 'https://app.box.com/'
+,images_path = '/img/'
+,images_box_path = '/img/box/'
+,css_path = '/css/'
+,js_path = '/js/'
+,assets_index_file = 'assets-index'
+,assets_index_mini_file = 'assets-index-mini'
+,assets_base = '_assets'
+,assets_url = 'https://%s/_assets%s';</script>
+
+<meta type="feature_flag" name="restrict_collabs_to_within_company" enabled="1"><meta type="feature_flag" name="folder_tree_search" enabled="1"><meta type="feature_flag" name="webapp_generic_click_tracking" enabled="1"><meta type="feature_flag" name="lightbox_preview" enabled="1"><meta type="feature_flag" name="lightbox_preview_enterprises" enabled="1"><meta type="feature_flag" name="lightbox_feedback_to_zendesk" enabled="1"><meta type="feature_flag" name="custom_admin_roles" enabled="1"><meta type="feature_flag" name="subheader_redesign_tags_button" enabled="1"><meta type="feature_flag" name="external_collab_report" enabled="1">
+<link href="https://e1.boxcdn.net/_assets/css/section_files_postload-QDokbi.css" rel="stylesheet"><script src="./Player1_files/section_application_postload.min-E1iqfH.js" async=""></script><link rel="stylesheet" type="text/css" href="./Player1_files/grid-PJKXz0.css"><link rel="stylesheet" type="text/css" href="./Player1_files/automations_info-7d9c9j.css"><link rel="stylesheet" type="text/css" href="./Player1_files/automations-info-sprite-aTk2B8.css"></head>
+
+<!--[if IE 7]>     <body class="ie ie7 lte_ie9 lte_ie8 module" id="site_body" data-module="page"> <![endif]-->
+<!--[if IE 8]>     <body class="ie ie8 lte_ie9 lte_ie8 module" id="site_body" data-module="page"> <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte_ie9 module" id="site_body" data-module="page"> <![endif]-->
+<!--[if gt IE 9]>  <body class="module" id="site_body" data-module="page"> <![endif]-->
+<!--[if !IE]><!--> <body class="module no_scroll has_lightbox" id="site_body" data-module="page" cz-shortcut-listen="true" style="height: auto;"> <!--<![endif]-->
+
+<div id="failed_to_load" class="centered_module hidden">
+	<div class="centered_module_inner"><div id="failed_to_load_img" class="center"></div>Please refresh</div>
+</div>
+
+
+
+<script type="text/javascript">
+	var pageTracker = null
+	,_gaq = []
+	,infocus = false
+	,event_tracking_tariff = 'Enterprise'
+	,event_tracking = 1	,hostname = 'app.box.com' 	,request_token = '09285338d78f9513e4e5bc378484ada84e38b539ddf3c552a6ed8af961444ce2'
+	,is_master = 0	,is_submaster = 0	,is_group_submaster = 0	,user_rate = '3'
+	,is_safari = 1	,is_mac = 0	,live_site=1		,enterprise_space = '1000'
+		,current_rm = 'box_files'
+	,webdoc_action_id = 105
+		,collab_permissions = {"Editor":"dcegknpstuvyfh","Co-owner":"dcegknopstuvyfhj","Viewer Uploader":"dcpstuvf","Previewer Uploader":"cptuv","Viewer":"dcpstvf","Previewer":"cptv","Uploader":"tuv"}	,zip_method = 'php'
+	,lang = 'eng'
+	,theme_id = 22737	,uses_vip_branding = 1	,default_theme_id = 1
+	,locking_action_id = 365
+	,unlocking_action_id = 367
+	,locking_action_asct = 'e1f3d88788deab8e6a1e413e63b7621747a8d1715f6949ba2623b07fabb05ce8'
+	,unlocking_action_asct = '556a2307ea9c2b7556e5e6ecf825d7172c3670e47c79e85ad5f1209b79c061d4'
+	,background_color = '#FFFFFF'
+	,file_size_upload_limit = 10737418240
+	,file_size_download_limit = 10737418240
+	,item_count_per_page = ''
+	,is_slave_account=1	,pim_expiration_notification_display_interval = 604800 // constant for PIM notification
+	,realtime_url = 'https://2.realtime.services.box.net/subscribe?channel=50d0f8b83572cda99729&stream_type=all'
+	,qsn = '1397497360563'
+	,realtime_max_retries = '15'
+	,realtime_subscriber_id ='1014659113534c1e1023c61'
+	,realtime_notification_priority_threshold_value ='26'
+	,box_path_delimiter_char = '›'
+	,user_timezone_offset = -14400 	,sync4_download_url_base = 'https://app.box.com/shared/static/'
+	,sync4_download_filename_win32 = 'eimmeponmcx2tfjl6j63.msi'
+	,sync4_download_filename_win64 = '68qe4sxrfjgxe8dubakm.msi'
+	,sync4_download_filename_win = '2yhubfhy7zoqtl5akfec.exe'
+	,sync4_download_filename_mac = '2d1iwrw24sezez37tby6.dmg'
+	,box_edit_download_url_base = 'https://sync.box.com/static/BoxEdit/'
+	,box_edit_download_filename_win = 'BoxEditInstaller.exe'
+	,box_edit_download_filename_mac = 'BoxEditInstaller.dmg';
+
+			var flash_upload_url = 'https://fupload-ord.box.com/cgi-bin/mod_perl-multipart_form_upload2.pl'
+		,html5_upload_url = 'https://fupload-ord.box.com/cgi-bin/mod_perl-html5_upload2.pl'
+		,progress_upload_url = 'https://fupload-ord.box.com/cgi-bin/upload2.pl'
+		,progress_interval = 120
+		,force_ajax_upload = 0		,force_flash_upload = 0;
+	
+	
+	if (!window.opera) try {document.execCommand('BackgroundImageCache', false, true);} catch(err) {}
+	
+
+		
+var CONST = 
+{
+	'BOX_ITEM_SYNC_NOT_SYNCED' : 'not_synced'
+	,'BOX_ITEM_SYNC_SYNCED' : 'synced'
+	,'BOX_ITEM_SYNC_PARTIALLY_SYNCED' : 'partially_synced'
+
+	,'BOX_TARIFF_DEFAULT_SLAVE_SPACE_AMOUNT' : '5'
+};
+
+		
+
+var box_contact_info = {"enterprise_support":{"company_name":"Indiana University","phone":"812-855-6789","email":"business-support@box.com"},"sales":{"phone":"1-877-729-4269","email":"ithelp@iu.edu","url":"http:\/\/kb.iu.edu\/data\/bbro.html"},"platform":{"phone":"1-866-679-0650","email":"developers@box.com"},"billing":{"phone":"812-855-6789","email":"billing@box.com"},"support":{"phone":"812-855-6789","email":"ithelp@iu.edu","url":"http:\/\/kb.iu.edu\/data\/bbro.html"},"box_support":{"phone":"1-877-729-4269","email":"support@box.com","url":"https:\/\/www.box.com\/help","cannot_be_overridden_by_reseller":true},"box_success":{"phone":"1-877-729-4269","email":"support@box.com","url":"https:\/\/success.box.com","cannot_be_overridden_by_reseller":true},"sdrteam":{"email":"sdrteam@box.com"},"analyst":{"email":"analyst@box.com"},"partners":{"email":"partners@box.com"},"press":{"email":"press@box.com"},"bin":{"email":"bin@box.com"},"api":{"email":"api@box.com"},"reseller":{"phone":"1-877-310-4246"},"search_engine_marketing":{"phone":"1-855-241-1206"},"intl_fallback":{"phone":"+44 808 189 0504"},"ios_support":{"phone":"1-877-729-4269","email":"ios-support@box.com","url":"https:\/\/success.box.com"},"android_support":{"phone":"1-877-729-4269","email":"android-support@box.com","url":"https:\/\/success.box.com"}};  
+var marketing_resources = '';
+var user_location = "US";
+var user_language = "en";
+		
+
+(function() {
+
+		window.initialConfig = {"userId":212233190,"userLogin":"epswartz@iupui.edu","userPhone":"","publicName":"Eric Swartz","companyName":"Indiana University","picUrls":{"small":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","large":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_large-M9h6O2.png","preview":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_preview-k-CXuq.png"},"features":["admin_reports","auto_expiration","custom_subdomain","custom_admin_roles","display_download_stats","admin_content_sharing","admin_user_settings","admin_notifications","admin_apps","app_use_management","enterprise_vip_custom_branding","enterprise_bulk_user_edit","enterprise_mobile_settings","enterprise_master_report_security","enterprise_group_management","enterprise_instant_login","enterprise_security_settings","encryption_at_rest","full_text_search","sso_google_apps","sso_salesforce","sso_netsuite","folder_commenting_control","unlimited_invited_collaborators","version_history","gcm_access","box_sync","password_protected_shared_links","video_preview"],"slaveStatusId":1,"isFreeUser":false,"enterpriseId":81319,"useMinimal":"","tours":{"shouldSeePreviewTour":false}} || {};
+	window.initialConfig.debug = 0;
+
+			window.initialConfig.initialJSHashes = ["Z7FrE","CdbxC","3wAyV","LQtj7","1og2L","814jR","17mWD","ZcpPx","EbMeJ","Vzz3y","JKuaU","Vaqcr","X8sZB","VojCH","3QucF","QBM6m","ah1VM","PVUTd","namk1","1iVEc","MXAgT","ZemMA","WVErW","nxaGo","eizYF","4EVV7","YCHCh","TKMBw","L1Wny","dsMXg","RSzLt","cVPZr","sABMG","1d4eg","8UWNp","RKeew","RRCVZ","UtLro","gmjK5","tQEYa","W1tuL","zaArJ","qW5xE","CgCMF","moLuV","7eG3i","CJhaJ","AMQht","Dqhm4","jZ7J4","axqS1","JpT1e","Ca33W","hHso2","RDYmR","jhYBA","aFnE3","5gXUm","12TCV","X5sgw","Hcx5W","28GkN","Cwct3","AQ6GK","upa2L","ZoeVA","9frXX","Vx9Be","C8WUt","stdrh","TfwHk","FMn8C","FmYUH","eBJ2B","JyL9m","dchdW","as2KA","69WQ4","CTEG1","D5Aw2","Giz2i","bNuAW","8sUqw","nL5nR","w5RLt","DEejR","4vNPE","jTVqp","5hUmw","NwTN9","9HjYu","DsVFv","3spYE","GXcDm","2qBtR","6jYsh","k1X1j","uk358","6cBQ6","Fm2iy","8dkN1","jmMHL","TcKbn","Vn54r","ezipH","GvE6d","Y5EN8","3TEFs","TJZgS","B2144","jmuL9","MfBfT","STZXY","xjYR5","r4Yja","gfFyg","JnvER","tiKQz","17c3b","cSYLB","GQkoJ","Vgaii","MdiHy","iU3XT","8bqL9","tgwxs","GrzY9","pbD2T","s2NV3","Aeg9Y","QqgZK","cmBVK","CKFPe","vEfUu","Tawpo","8goFH","rvWyd","w6d7h","gZnLL","WDbaJ","57xEW","jLRBc","cpytJ","FgTSp","AGnh9","cb3wy","mpMnu","6R5J4","yZYN9","Akcro","4KMsF","ZKMKQ","fptdy","u5PLV","JB2d9","TQB5x","o3Yd8","fXqVR","5Mw3K","iHrmB","vqqrE","smhsW","inyN3","RQC3L","X5WAf","r3Upt","LWBnQ","8YHxU","ki2EM","ZZtNn","QaSLw","w5n76","RPsmb","chmEp","CWTod","3namr","JutXB","mSGf4","SAM1Z","g8hU4","Mw4Yi","LpTtj","cH6CV","o8YJJ","rScGK","1Lcjt","hdpqp","3CYx6","CpVZj","oZoeK","SEwmZ","MFXh5","QBeb8","bNciS","eGtb4","LnvU9","jjbba","bknFK","biWHa","VnRZb","4ZKvX","tbc8o","qKUpo","6Mpbk","UdWmd","HKo6H","BjSAe","Mck4T","m5pN4","fshuX","4XNLE","WkUXw","NuDsv","rPrdv","BZbRS","VqPSc","NpeLM","DGow1","Sjpha","MXtjJ","8EJJS","ym8QZ","gP7qg","Ljavw","LCHfj","mocoW","Xgk4T","MAdMe","NfuEx","DdPHp","rFJNg","fdjjc","1zwB4","Dcoi1","ekSn9","6spq3","EFmJZ","ZB2j5","pJUaL","r5vK7","yZ7D3","a6aLf","DukdG","mmnAY","YzYG6","A3GYP","6xeAs","wxZs4","p8EE8","scRrE","8Z8NT","8q3xs","ePVa4","e7D2S","sc29B","DgEVK","BtpUp","whsoS","FbQcS","LWGaq","4arj5","jNVMg","apt7b","bX2tR","vod5V","4X6yS","KUd4v","zgL2Y","K3zg6","iqwp9","uqRrS","yVCYK","JPUup","KHSLd","dN4fQ","mNXBU","QXjPr","eGM3M","3SFpr","GiJuK","CL2Ge","nWK8N","joQH6","ep9jM","GedQ4","cDGYY","ZjmfB","m9TkT","5L441","4hHHY","ooN98","fL6ZF","hGMgz","EhSwc","cni33","eMi3e","zXxAv","LGzWi","bvFxX","hxq18","L5WeH","63LcQ","aqm5J","gikKQ"];
+	window.initialConfig.initialCSSHashes = ["UNQqU","gaaw7","kTotX","sS96u","R7FcL","2GqF2","F6BD3","QXN1V","NSUU1","8zaCt","JWAZW","F5PHY","x7AzE","xy3uc","6RxB9","LSPpz","yzArW","RwK6q","BAcwt","Xdd9J","QBXBf","T6Ye2","ySNsx","nE3C9","SYHgU","Unioj","cj29y","TXxWj"];
+
+		window.initialConfig.cookieDomain = '.box.com';
+
+})();
+
+	var onloadList = [];
+	var onreadyList = [];
+</script>
+
+
+	<div class="accessible_version_switch">
+	<a class="white pvl medium strong" href="https://a.box.com/">Switch to the Accessible Version of Box ›</a>
+</div>
+<div id="box_head" class="head"><div id="header-container" style="height: 51px;"></div><div id="header-container" class="header_stalking" style="width: 1366px; left: 0px; z-index: 50; position: fixed; top: 0px;"><div id="mod-header" class="header module" role="navigation" data-module="header"><div class="page"><div class="line nav files_view icon_nav"><div class="unit logo_cntr logo_unit" id="box_logo_section"><table cellspacing="0" cellpadding="0" border="0" style="height:100%;"><tbody><tr><td valign="middle" style="height:100%;"><a href="https://iu.app.box.com/"><span id="themed_main_logo"><img src="./Player1_files/index.php" class="logo"></span><div id="default_main_logo" class="img logo standard_logo mrm" style="display: none;"></div><div id="default_main_logo_glow" class="img logo standard_logo_glow" style="display: none;"></div></a></td></tr></tbody></table></div><ul class="unit allow_right_click tabs_unit"><li id="tasks_tab" class="nav_icon_drop_link" data-type="pim-btn" aria-haspopup="true"><a id="tasks_tab_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="ignore_click"><span id="tasks_badge_count" class="badge medium_badge update_3d mls" style="display: none;">0</span><span class="nav_icon sprite_28x28 sprite_28x28_header_tasks_tab" data-hover="tooltip" aria-label="Messages"></span></a></li><li id="updates_tab" class=""><a id="updates_tab_link" href="https://iu.app.box.com/updates" class=""><span id="new_updates_count" class="badge medium_badge update_3d mls" style="display: none;">0</span><span class="nav_icon sprite_32x32_header_updates_tab" data-hover="tooltip" aria-label="Updates"></span></a></li><li id="files_tab" class="current"><a id="files_tab_link" href="https://iu.app.box.com/files" onclick="" class=""><span class="nav_icon sprite_32x32_header_files_tab" data-hover="tooltip" aria-label="Files"></span></a></li><li id="contacts_tab"><a id="contacts_tab_link" href="https://iu.app.box.com/contacts"><span class="nav_icon sprite_32x32_header_contacts_tab" data-hover="tooltip" aria-label="People"></span></a></li><li id="apps_tab"><a id="apps_tab_link" href="https://iu.app.box.com/services"><span class="nav_icon sprite_32x32_header_apps_tab" data-hover="tooltip" aria-label="Apps"></span></a></li></ul><div id="search_unit" class="search_unit"><form id="search_files_form" class="search_form nav_content" role="search" action="" method="POST" name="search_form" data-type="search-form"><input type="text" name="search" id="search" class="search_field needs_hover" autocomplete="off" placeholder="Search Files" data-behavior="select_text_when_clicked" value=""><input type="hidden" name="types" data-type="search-filter">
+<input type="hidden" name="users" data-type="search-filter">
+<input type="hidden" name="date" data-type="search-filter">
+<input type="hidden" name="size" data-type="search-filter">
+<input type="hidden" name="kind" data-type="search-filter">
+<input type="hidden" name="subfolder_ids" data-type="search-filter">
+<input type="hidden" name="folder_tree" data-type="search-filter">
+<input type="hidden" name="owner" data-type="search-filter"><button class="search_field search_button" data-type="search-btn" type="submit"><span class="nav_icon sprite_32x32_header_search_button"></span></button><input type="hidden" name="request_token" style="display: none;" value="09285338d78f9513e4e5bc378484ada84e38b539ddf3c552a6ed8af961444ce2"></form></div> <ul class="unit_ext tabs_unit"><li id="current_user_tab" class="nav_icon_drop_link mrn" data-type="user-menu-btn" data-admin-view="false"><a id="current_user_tab_link" class="ignore_click" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="nav_icon sprite_32x32_header_current_user_tab"></span></a></li></ul><ul class="unit_ext current_user_name_unit"><h3 class="current_user_name"><a href="https://iu.app.box.com/profile" class="ellipsis ellipsis_170">Eric Swartz</a></h3></ul></div></div></div></div></div><div id="qs_menu" class="drop_down" style="display: none;"><!-- --></div>
+
+<div id="mod-subheader-breadcrumb" class="module subheader" data-module="subheader-breadcrumb" role="navigation"><div class="breadcrumb_wrapper"><ul id="main_path" class="breadcrumb_items inline_list_icon_aligned man single_line"><li class="breadcrumb_item first"><a href="https://iu.app.box.com/files/0/f/0/" class="allow_right_click breadcrumb_item_link " data-type="path-link"><span class="breadcrumb_item_title">All Files<button class="label btn_label jump_to_folder mls" data-type="jump-to-folder-link"><span class="toggle"><b class="arrow"></b></span>Jump to folder</button></span></a></li><li class="breadcrumb_item last last_two"><a href="https://iu.app.box.com/files/0/f/1846117755/coinCollector" class="allow_right_click breadcrumb_item_link last" data-type="path-link"><div class="breadcrumb_item_icon float_left sprite_16x16_subheader_collab_folder"></div><span class="breadcrumb_item_title last_two">coinCollector</span></a></li></ul></div></div>
+<div class="body disable_sprite_46x46 disable_sprite_18x18" style="min-height: 512px;">
+	<div class="page">
+
+				<div class="right_col" style="min-height: 544px;">
+			<div id="content_sidebar" class="content_sidebar disable_selectable" data-view_id="sidebar_{}"> 
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+    
+
+
+
+
+			<div id="sidebar_in_product_marketing" class="cntr feature cntr_sidebar" style="display:none">
+	</div>				
+<div id="sidebar_pending_items" class="files_sidebar inbox_sidebar cntr_sidebar" style="display:none"><h3>Pending Items</h3><div class="sidebar_text"><ul class="icon_list"></ul></div></div>		
+		
+																<div id="sidebar_collaborators_placeholder" class="ptn"><div id="mod-sidebar-collaborators" class="module cntr_sidebar pbs" data-module="sidebar-collaborators"><script type="text/x-config">{"collabs":{"epswartz@iupui.edu":[{"typed_id":"c_65377786","type":"collab","id":65377786,"collab_id":65377786,"item_permissions_id":7,"invite_seen":true,"created":1397494774,"accepted":1,"item_id":1846117755,"user_id":212233190,"item_user_name":"Corey Harris","inviter_user_id":201347422,"inviter_user_name":"Corey Harris","group_tag_id":0,"item_user_enterprise_id":81319,"stat":"Accepted","permission":"Editor","collab_permissions":{"collab_remove":true,"collab_edit_collaborators":true,"collab_edit_status":true},"item_description":"","inviter":{"id":201347422,"name":"Corey Harris","email":"corharri@iupui.edu","pic_urls":{"small":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","large":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_large-M9h6O2.png","preview":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_preview-k-CXuq.png"}},"requires_strong_password":false,"tos_id":null,"tos_text":null,"name":"Eric Swartz","email":"epswartz@iupui.edu","pic_urls":{"small":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","large":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_large-M9h6O2.png","preview":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_preview-k-CXuq.png"},"files_count":8,"hide_collaborators":false,"item_type":"folder","item_name":"coinCollector","item_typed_id":"d_1846117755","size":"633.1KB","collaborators_count":2,"expiration":[],"unidb_formats":["collab_info_with_expirations"]}]},"users":[{"typed_id":"u_212233190","type":"user","id":212233190,"name":"Eric Swartz","email":"epswartz@iupui.edu","enterprise_id":81319,"avatar":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","pic_urls":{"small":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","large":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_large-M9h6O2.png","preview":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_preview-k-CXuq.png"},"is_free_user":false,"max_upload_size":"10737418240","job_title":"","unidb_formats":["user_info"]}],"group_tags":[]}</script><h3 class="mbn">Collaborators</h3><ul class="list_ext sidebar_collaborators_header mtn mbn" data-type="toggle-list-btn"><li class="pln pts pbs"><ul class="inline_list_ext inline_list_icon_aligned"><li class="last-child mrn prn"><span class="arrow list_img icon sprite_9x9_down_arrow_grey man open txt_t"></span></li><li class="last-child mrn prn"><div class="img profile_icon icon sprite_16x16_activity_edit_profile"></div></li><li><span class="sidebar_collaborators_label">2&nbsp;Collaborators</span></li><li class="last-child"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="mail_collabs_link" data-type="mail-link">Mail all</a></li></ul></li></ul><ul id="sidebar_collaborators_list" class="icon_list mls mbn fx-fast is-open"><li class="collab_owner_link mvn pls pvs" data-type="user-listing" data-user-id="201347422" data-show-profile-link="1"><div class="media"><span class="img icon"><span class="sprite_16x16 sprite_no_content" style="background-image: url(https://e1.boxcdn.net/_assets/img/box/box_user_avatar_small-QaPHWb.png); background-size: 100%;"></span></span><a href="https://iu.app.box.com/profile/201347422" id="201347422"><span class="ellipsis ellipsis_140 mrs">Corey Harris</span></a><span class="badge role mls badge_next_to_ellipsis">OWNER</span></div></li><li class="collab_owner_link mvn pls pvs current_user" data-type="user-listing" data-user-id="212233190" data-show-profile-link="1"><div class="media"><div class="img_ext remove_collab_cross_cntr prs"><a class="sprite_14x14_close_blue clickable pan man" style="display: block;" data-type="remove-btn" data-user-id="212233190"></a></div><span class="img icon"><span class="sprite_16x16 sprite_no_content" style="background-image: url(https://e1.boxcdn.net/_assets/img/box/box_user_avatar_small-QaPHWb.png); background-size: 100%;"></span></span><a href="https://iu.app.box.com/profile/212233190" id="212233190"><span class="ellipsis ellipsis_140 mrs">Eric Swartz</span></a><span class="badge role mls badge_next_to_ellipsis">EDITOR</span></div></li></ul><ul id="sidebar_collaborators_invite" class=""><li id="sidebar_collaborators_input" class="pbn option_selector" data-typed-id="d_1846117755" style="display: list-item; position: relative; z-index: 2;"><div class="input full_width_input selector_input_box"><ul class="inline_list mbn mtn"><li class="pan badge_selector_input_item"><span class="placeholderize-wrapper-noname" style="position: relative; width: 207px; float: none;"><label id="placeholderize-label-noname" class="placeholderize-label" for="noname" style="position: absolute; top: 0px; left: 0px; cursor: text; color: rgb(153, 153, 153); font-size: 12px; text-align: left; margin: 0px; padding: 0px; width: 207px; line-height: 16px; z-index: 1; pointer-events: none; white-space: nowrap; overflow: hidden; display: inline-block;">Names or email addresses</label><input type="text" autocomplete="off" class="input_filter_transparent placeholderized" placeholder=""></span></li></ul></div><div class="drop_down_container mtn" style="display: none;"><ul class="list_ext drop_down_inner list_ext_no_bottom_border box_options_drop_down scrollable"></ul></div><div class="advanced_options gets_hover" style="display: none;"><ul class="inline_list"><li data-type="info-link"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Advanced options</a></li><li><div class="mts list_img sprite_16x16_info" data-hover="tooltip" aria-label="How does this work?|Use &#39;Advanced options&#39; to restrict access permissions or include a personal message."></div></li></ul></div></li><li class="pan"><button id="sidebar_collaborators_links_button" href="#" class="input_button fw" data-type="submit-btn"><ul class="inline_list"><li class="icon sprite_16x16_add_collab"></li><li>Invite Collaborators</li></ul></button></li><li id="collabs_restricted_to_company_warning" class="mts confirmation inactive"></li></ul></div></div>
+							
+				
+						<div id="sidebar_sharebar" class="gallery_sidebar cntr_sidebar pbn">
+		<h3 class="mbn">
+			Sharing
+		</h3>
+		<ul class="mtn mbs">
+			<li class="in_place_share_container pbn ptn">
+				<div class="sharing_off_container pts pbs"><ul class="inline_list lh16 mbn"><li class="prn"><div class="sprite_16x16_shared_link_blue icon"></div></li><li class="prn mrs"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sidebar_activate_shared_link" data-view_id="in_place_shared_link_{}">Link:</a></li><li><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="sidebar_activate_shared_link" data-view_id="in_place_shared_link_{}">Get a link to this item</a></li></ul></div><div class="sharing_on_container pts pbs" style="display: none;"><ul class="inline_list lh16 mbn"><li class="prn"><div class="icon sprite_16x16 undefined list_img" id="sharing_sidebar_access_level_icon" data-hover="tooltip"></div></li><li class="prn mrs"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" data-view_id="in_place_shared_link_{}">Link:</a></li><li><input type="text" class="in_place_share_url input_transparent pan ellipsis ellipsis_150" title="Copy and paste this link into IM or email" readonly="readonly" data-view_id="select_text_when_clicked_{}"></li></ul><ul class="inline_list mlm pls" id="sharing_sidebar_access_section"><li><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="sharing_sidebar_access_link" class="drop_link prn"><span class="arrow"></span></a></li></ul></div>			</li>
+		</ul>
+	</div>
+				
+<div id="files_in_folder_section" class="gallery_sidebar cntr_sidebar pts" style="display: none;">
+	<h3>Files in this Folder</h3>
+	<ul id="files_in_folder_list" class="list_ext">
+		<li id="view_more_files" class="pas clickable" style="display:none;">
+			<div class="img sprite_46x46 sprite_46x46_view_more_files"></div>
+			<div class="bd pts"><h3>View more files<br>in this folder</h3></div>
+		</li>
+		<li id="other_file_tpl" class="pvs" style="display:none; cursor:pointer;">
+			<div class="media">
+				<div class="avatar_file_icon_cntr img"></div>
+				<div class="bd">
+					<h5 class="mts mbn ellipsis ellipsis_150_fixed"></h5>					<p class="mtn break" style="width: 150px;"></p>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>				
+<div id="sidebar_gallery_file_description" class="gallery_sidebar cntr_sidebar" style="display: none;"><h3>File Information</h3><ul class="icon_list"><li id="gallery_file_info_sidebar_size"></li><li id="gallery_file_info_sidebar_versions_link"></li><li id="gallery_file_info_sidebar_tags">Tags:&nbsp;<span class="tags"></span><span class="partner_tags"></span></li><li id="gallery_file_info_sidebar_downloads"></li><li><a id="file_info_properties" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" data-view_id="sidebar_file_info_link_{}">Edit properties</a></li></ul></div>				
+<div id="resources_sidebar_module" class="cntr_sidebar">
+		<h3>Resources</h3>
+	<ul class="icon_list">
+						<li>
+			<div class="media">
+				<span class="img icon sprite_16x16_trash"></span>
+				<div class="bd">
+										<a href="https://iu.app.box.com/files/0/f/1/Trash" class="trash_link">
+						Trash
+					</a>
+				</div>
+			</div>
+		</li>
+						<li>
+			<div class="media">
+				<span class="img icon sprite_16x16_help"></span>
+				<div class="bd">
+					<a id="sidebar_help_link" href="http://kb.iu.edu/data/bbro.html" target="_blank">Help</a>
+				</div>
+			</div>
+		</li>
+				<li>
+			<div class="media">
+				<span class="img icon sprite_16x16_box_webinar"></span>
+				<div class="bd">
+					<a href="https://success.box.com/" target="_blank">Success And Training Corner</a>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="media">
+				<span class="img icon sprite_16x16_discussion_forum"></span>
+				<div class="bd">
+					<a href="https://iu.app.box.com/community" target="_blank">Box Community</a>
+				</div>
+			</div>
+		</li>
+	</ul>
+	</div>	</div>
+		</div>
+
+		
+							<div id="actionbar-stalking-wrapper" class="multiple-rows" style="height: 39px;"></div><div id="actionbar-stalking-wrapper" class="multiple-rows actionbar_stalking" style="width: 723px; left: 195px; z-index: 50; position: fixed; top: 51px;">
+				<div id="actionbar-wrapper" data-actionbar="files">
+					<div id="mod-actionbar-files" class="module actionbar ptn man with-tags-button" data-module="actionbar-files"><ul class="actionbar_buttons"><li class="actionbar_button_wrapper"><button id="upload_button" class="primary_button dropdown_button mvn" data-type="upload-menu-btn" aria-haspopup="true"><ul class="inline_list"><li>Upload</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><ul data-type="upload-menu" style="position: absolute; display: none" id="ui-id-1" class="ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" tabindex="0"><li data-type="upload-files-option" class="ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-2" class="ui-corner-all" tabindex="-1" role="menuitem">Upload Files</a></li><li data-type="upload-directory-option" class="ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-3" class="ui-corner-all" tabindex="-1" role="menuitem">Upload Folders</a></li></ul></li><li class="actionbar_button_wrapper"><button id="create_item_button" class="dropdown_button mvn" data-type="create-item-menu-btn"><ul class="inline_list"><li>New...</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button></li><li class="actionbar_button_wrapper"><button id="folder_options_button" class="dropdown_button mvn" data-type="folder-options-btn"><ul class="inline_list"><li>More</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button></li></ul></div>
+					<div id="mod-actionbar-search" class="module actionbar ptn man with-tags-button" data-module="actionbar-search"><ul class="actionbar_buttons">
+<span id="advanced_search_filters">
+
+
+<div class="cntr drop_down_ext handle_menu_events lh24" id="dd_menu_create_filter_add" style="display: none;">
+	<ul class="list_menu hover_list">
+		<li id="date_filter" class="clickable" style="">Date</li>
+		<li id="types_filter" class="clickable" style="">Type</li>
+		<li id="kind_filter" class="clickable" style="">Content</li>
+		<li id="users_filter" class="clickable" style="display: none;">User</li>
+		<li id="folder_tree_filter" class="clickable" style="">Folder</li>
+		<li id="size_filter" class="clickable" style="">Size</li>
+		<li id="owner_filter" class="clickable" style="">Owner</li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext handle_menu_events lh24" id="dd_menu_create_filter_types" style="display: none; width: 140px;">
+	<ul class="list_menu hover_list" style="width: 140px;">
+		<li class="clickable" data-value="audio">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Audio
+		</li>
+		<li class="clickable" data-value="document">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Document
+		</li>
+		<li class="clickable" data-value="drawing">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Drawing
+		</li>
+		<li class="clickable" data-value="folder">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Folder
+		</li>
+		<li class="clickable" data-value="image">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Image
+		</li>
+		<li class="clickable" data-value="pdf">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			PDF
+		</li>
+		<li class="clickable" data-value="presentation">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Presentation
+		</li>
+		<li class="clickable" data-value="spreadsheet">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Spreadsheet
+		</li>
+		<li class="clickable" data-value="video">
+			<div class="img_ext select fakebox sprite_16x16_select inline_list_ext mln"></div>
+			Video
+		</li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext handle_menu_events lh14" id="dd_menu_create_filter_kind" style="display: none;">
+	<ul class="list_menu hover_list">
+		<li class="midlight clickable" data-value="everything"><a><strong>Everything</strong></a></li>
+		<li class="midlight clickable" data-value="name"><a><strong>Name</strong></a></li>
+		<li class="midlight clickable" data-value="comments"><a><strong>Comment</strong></a></li>
+		<li class="midlight clickable" data-value="description"><a><strong>Description</strong></a></li>
+		<li class="midlight clickable" data-value="file_content"><a><strong>File Content</strong></a></li>
+		<li class="midlight clickable" data-value="tags"><a><strong>Tags</strong></a></li>
+	</ul>
+</div>
+
+<div class="input_medium pas cntr drop_down_ext handle_menu_events lh14" id="dd_menu_create_filter_users" style="display:none">
+	<div class="contact_selector_wrapper pas"></div>
+	<div class="done_button_wrapper phs pvn">
+		<hr class="divider">
+		<div class="media mbn"><button class="done_button mrn img_ext">Done</button></div>
+	</div>
+</div>
+
+<div class="input_medium pas cntr drop_down_ext handle_menu_events lh14" id="dd_menu_create_filter_enterprise_folder" style="display: none;">
+	<input type="text" name="enterprise_folder_search" id="enterprise_folder_search" class="fw search_field" autocomplete="off" placeholder="Search" files="">
+	<span class="search_icon sprite_16x16_search"></span>
+</div>
+
+<div id="dd_menu_create_filter_folder_tree" style="display: none;"></div>
+<div class="cntr drop_down_ext handle_menu_events lh24" id="dd_menu_create_filter_date" style="display: none;"><ul class="list_menu hover_list"><li class="clickable" data-value="day">Past Day</li><li class="clickable" data-value="week">Past Week</li><li class="clickable" data-value="month">Past Month</li><li class="clickable" data-value="year">Past Year</li><li class="clickable" data-value="custom">Custom Range</li></ul></div>
+<div class="cntr drop_down_ext handle_menu_events lh24" id="dd_menu_create_filter_size" style="display: none;"><ul class="list_menu hover_list"><li class="clickable" data-value="0to1">0 - 1 MB</li><li class="clickable" data-value="1to5">1 - 5 MB</li><li class="clickable" data-value="5to25">5 - 25 MB</li><li class="clickable" data-value="25to100">25 - 100 MB</li><li class="clickable" data-value="100to1000">100 MB - 1 GB</li><li class="clickable" data-value="custom">Custom Range</li></ul></div>
+
+<div class="input_medium pam cntr drop_down_ext handle_menu_events lh14" id="dd_menu_create_filter_owner" style="display: none;">
+	<div class="contact_selector_wrapper"></div>
+	<div class="done_button_wrapper phs pvn">
+		<hr class="divider">
+		<div class="media mbn"><button class="done_button mrn img_ext">Done</button></div>
+	</div>
+</div>
+<button id="advanced_search_back_button" class="phm mln img" data-type="search-back"><ul class="inline_list inline_list_icon_aligned lh16"><li class="icon sprite_actionbar_back man"></li></ul></button><span class="button_with_interactive_icon"><button id="folder_tree_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li><span id="folder_tree_button_name">All Folders</span></li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon clickable close_icon hidden needs_hover"></span></span><span class="button_with_interactive_icon"><button id="types_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li id="types_button_name">All Types</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon hidden clickable close_icon needs_hover"></span></span><span class="button_with_interactive_icon"><button id="kind_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li id="kind_button_name">Content: Everything</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon clickable close_icon hidden needs_hover"></span></span><span class="button_with_interactive_icon"><button id="date_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li id="date_button_name">Date</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon clickable close_icon hidden needs_hover"></span></span><span class="button_with_interactive_icon"><button id="size_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li id="size_button_name">Size</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon clickable close_icon hidden needs_hover"></span></span><span class="button_with_interactive_icon"><button id="owner_filter_button" class="pvs filter_button mln" style="display: none;"><ul class="inline_list"><li id="owner_button_name">Any Owner</li><li><span class="toggle"><b class="arrow"></b></span></li></ul></button><span class="mrn img sprite_14x14_close_circle interactive_icon hidden clickable close_icon needs_hover"></span></span><span class="button_with_interactive_icon"><button id="add_filter_button" class="phm mrm mln" data-hover="tooltip" aria-label="Add Search Filter"><ul class="inline_list inline_list_icon_aligned lh16"><li class="icon sprite_actionbar_plus man"></li></ul></button></span><span class="button_with_interactive_icon">
+	<button id="apply_filter_button" class="pvs mln primary_button" data-type="search-apply">Apply</button>
+</span></span></ul></div><script type="text/x-template" id="jst-search-page-title-placeholder"><li class="page_title">Loading...</li></script>
+					<div id="mod-actionbar-trash" class="module actionbar ptn man with-tags-button" data-module="actionbar-trash"><ul class="actionbar_buttons"><li class="actionbar_button_wrapper"><button id="restore_button" class="mvn" data-type="trash-restore"><ul class="inline_list"><li>Restore All</li></ul></button></li><li class="actionbar_button_wrapper"><button id="delete_button" class="mvn" data-type="trash-delete"><ul class="inline_list"><li>Delete All</li></ul></button></li></ul></div>
+					<div id="actionbar-multiple-selection" class="actionbar ptn man handle_menu_events with-tags-button"><ul class="actionbar_buttons"><li class="actionbar_button_wrapper" id="multi_options_download"><button class="mvn" data-hover="tooltip" aria-label="Download"><span class="man icon sprite_actionbar_download"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_sharebar"><button class="mvn" data-hover="tooltip" aria-label="Send"><span class="man icon sprite_actionbar_send"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_tag"><button class="mvn" data-hover="tooltip" aria-label="Tag"><span class="man icon sprite_actionbar_tags"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_move"><button class="mvn" data-hover="tooltip" aria-label="Move / Copy"><span class="man icon sprite_actionbar_movecopy"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_restore"><button class="mvn" data-hover="tooltip" aria-label="Restore"><span class="man icon sprite_actionbar_restore"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_delete_me"><button class="mvn" data-hover="tooltip" aria-label="Delete"><span class="man icon sprite_actionbar_delete"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_delete_from_trash"><button class="mvn" data-hover="tooltip" aria-label="Delete"><span class="man icon sprite_actionbar_delete_from_trash"></span></button></li><li class="actionbar_button_wrapper" id="multi_options_synchronize"><button class="mvn" data-hover="tooltip" aria-label="Sync"><span class="man icon sprite_actionbar_sync"></span></button></li><li class="actionbar-plain-text" id="multi_options_no_actions"><em>No actions available</em></li></ul></div>					<div id="mod-view-options" class="module view_options ptn man" data-module="view-options"><ul class="actionbar_buttons mbn"><li class="actionbar_button_wrapper"><button id="tags_button" class="dropdown_button mvn mln" data-type="tags-menu-btn" aria-haspopup="true" data-hover="tooltip" aria-label="Tag Filtering"><ul class="inline_list"><li class="icon sprite_actionbar_tags"></li><li class=""><span class="toggle"><b class="arrow"></b></span></li></ul></button></li><li class="actionbar_button_wrapper"><button id="view_options_button" class="dropdown_button mvn mrn" data-type="view-options-menu-btn" aria-haspopup="true" data-hover="tooltip" aria-label="View Options"><ul class="inline_list"><li class="icon sprite_actionbar_eyeball"></li><li class=""><span class="toggle"><b class="arrow"></b></span></li></ul></button><ul data-type="view-options-menu" class="view-options-menu list_menu ui-menu ui-widget ui-widget-content ui-corner-all" style="position: absolute; max-width: 250px; width: auto; top: 34px; left: 66.5px; display: none;" id="ui-id-10" role="menu" tabindex="0" aria-activedescendant="ui-id-14"><li class="ui-menu-label sort-label pts">Sort by</li><li data-type="sort" data-sort="name" class="ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-11" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="arrow"></span>Name</a></li><li data-type="sort" data-sort="date" class="selected ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-12" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="arrow menu_arrow_down"></span>Date</a></li><li data-type="sort" data-sort="size" class="ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-13" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="arrow"></span>Size</a></li><li class="display-divider mvs ui-widget-content ui-menu-divider">-</li><li class="ui-menu-label display-label">Display as</li><li data-type="display" data-display="list" class="selected ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-14" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="icon mrm sprite_menus_list_view_active"></span>List View</a></li><li data-type="display" data-display="icon" class="ui-menu-item" role="presentation"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="ui-id-15" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="icon mrm sprite_menus_icon_view_inactive"></span>Icon View</a></li></ul></li><li id="nav_paging" class="actionbar_button_wrapper"><div id="top_pages"><div id="paging_menu" class="handle_menu_events" style="display: none"><div class="cntr drop_down_ext scrollable ignore_mousedown"><ul class="list_menu hover_list"> <li id="page_1" class="selected"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="page_link_1" data-page_num="1" data-type="paging-link">1</a> </li></ul></div></div></div></li><li class="select_all"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox img" data-hover="tooltip" aria-label="Select / Deselect All" data-view_id="toggle_item_list_selection_{}"><input type="checkbox" style="display: none;"></a></li></ul></div>
+				</div>
+			</div>
+		
+				<div id="files" class="main multi_options_container">
+			<div class="module item_description_container mhn mvm pam edit_in_place_cntr cntr disable_selectable" data-module="item-description" data-type="folder-description" style="display: none;" id="mod-item-description-1">
+				<span class="item_description prs" data-url="/index.php?rm=box_files_update_item_info" data-field="description" data-item_id="current" data-item_type="folder" data-behavior="edit_in_place" data-type="textarea" data-maxlength="255" placeholder="Add a folder description..."></span>
+			</div>
+
+						<div class="module cntr actions line pbn" data-module="tag-filters" style="display: none;" id="mod-tag-filters-1">
+				<ul class="inline_list unit size4of5">
+				</ul>
+				<div class="unit size1of5">
+					<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="img_ext" data-type="remove-all-tags-btn">Remove all</a>
+				</div>
+			</div>
+
+			<div id="top_notification" class="module" data-module="notifications">
+		</div>
+<script type="text/x-template" id="jst-notification">	
+<div class="cntr notification_container fx notification_<%=type%>  " data-type="<%=type%>" role="alert">
+	<div class="notification_outer fw">
+		<div class="notification_inner ram table pll prm">
+			<div class="notification_message table_cell txt_m lh16 pvm phn">
+				<strong class="notification_title">
+					<%=title%>
+				</strong>
+				<span class="notification_description <%=descriptionClass%> mrn mls">
+					<%=description%>
+				</span>
+			</div>
+			<div class="notification_actions table_cell txt_m">
+				<button class="notification_action mvs mhn <%=actionClass%>">
+					<%=actionText%>
+				</button>
+				<button class="notification_close ban mrn">
+					<div class="sprite_16x16_black_close"></div>
+					<div class="sprite_16x16_white_close"></div>
+				</button>
+			</div>
+		</div>
+	</div>
+</div></script>			<div id="box_confirmation" class="module cntr feature confirmation confirmation_v2 disable_selectable" data-module="legacy-confirmations" style="display: none;">
+	<div class="media">
+		<a id="box_confirmation_close" class="img_ext icon sprite_14x14_close mrn" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"></a>
+		<div class="bd">
+			<div id="box_confirmation_content"></div>
+			<div id="box_confirmation_description" class="pts" style="display:none;"></div>
+		</div>
+	</div>
+</div>			<div id="banner_message_anchor" class=""></div>						<div id="automation-notification-message" class="hidden confirmation confirmation_v2 cntr"><div id="automation-notification" class="module" data-module="automation-info-message"></div></div>
+			<div id="html5_upload_target_overlay" class="receiving_drop dashed_outline_small"></div>
+
+						<div id="mod-item-list" class="module" data-module="item-list">
+				<ul id="item-list" class="list_ext item_collection use_comments_expansion use_share_expansion use_tasks_expansion list_view ">    
+	
+		
+<li data-type="item-row" data-typed-id="f_16213567853" class="item_mouseover_handler file item" id="c0_f_16213567853">
+			<div class="dnd" draggable="true" data-downloadurl="audio/x-wav:coin1.wav:/index.php?rm=box_v2_download_file&amp;file_id=f_16213567853&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213567853" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213567853" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213567853" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213567853" name="coin1.wav"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213567853" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213567853" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">coin1.wav</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li class="">Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">43.1 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213567853" style="display:none"><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213566741" class="item_mouseover_handler file item previewable" id="c0_f_16213566741">
+			<div class="dnd" draggable="true" data-downloadurl="image/psd:backGround.psd:/index.php?rm=box_v2_download_file&amp;file_id=f_16213566741&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_no_content" style="background-image: url(https://iu.app.box.com/representation/file_version_13451347491/thumb_32_jpg.jpg?wait=1); background-repeat: no-repeat no-repeat;"><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_icon_view sprite_no_content" data-background-image="/representation/file_version_13451347491/thumb_94.jpg?wait=1" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213566741" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213566741" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213566741" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213566741" name="backGround.psd"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213566741" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213566741" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">backGround.psd</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li class="">Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">374.1 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213566741"><script type="text/x-template" id="jst-link_stats_tooltip_16213566741">Link Access Stats|Previews: 1<br/>Downloads: 0<br/>Status: Disabled</script><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="item_stat hoverlight prs op100" data-type="stats-btn" data-tooltipid="link_stats_tooltip_16213566741"><span class="list_img sprite_12x12_chart"></span>&nbsp;1</a><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213565547" class="item_mouseover_handler file item previewable" id="c0_f_16213565547">
+			<div class="dnd" draggable="true" data-downloadurl="image/psd:Player1.psd:/index.php?rm=box_v2_download_file&amp;file_id=f_16213565547&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_no_content" style="background-image: url(https://iu.app.box.com/representation/file_version_13451346159/thumb_32_jpg.jpg?wait=1); background-repeat: no-repeat no-repeat;"><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_icon_view sprite_no_content" data-background-image="/representation/file_version_13451346159/thumb_94.jpg?wait=1" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213565547" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213565547" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213565547" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213565547" name="Player1.psd"><a href="./Player1_files/Player1.psd" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213565547" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">Player1.psd</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li>Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">38.4 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213565547" style="display:none"><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213564611" class="item_mouseover_handler file item" id="c0_f_16213564611">
+			<div class="dnd" draggable="true" data-downloadurl="audio/x-wav:hit1.wav:/index.php?rm=box_v2_download_file&amp;file_id=f_16213564611&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213564611" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213564611" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213564611" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213564611" name="hit1.wav"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213564611" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213564611" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">hit1.wav</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li>Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">9.9 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213564611" style="display:none"><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213563735" class="item_mouseover_handler file item" id="c0_f_16213563735">
+			<div class="dnd" draggable="true" data-downloadurl="audio/x-wav:Explosion.wav:/index.php?rm=box_v2_download_file&amp;file_id=f_16213563735&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213563735" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213563735" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213563735" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213563735" name="Explosion.wav"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213563735" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213563735" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">Explosion.wav</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li>Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">83.1 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213563735"><script type="text/x-template" id="jst-link_stats_tooltip_16213563735">Link Access Stats|Previews: 1<br/>Downloads: 0<br/>Status: Disabled</script><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="item_stat hoverlight prs op100" data-type="stats-btn" data-tooltipid="link_stats_tooltip_16213563735"><span class="list_img sprite_12x12_chart"></span>&nbsp;1</a><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213562781" class="item_mouseover_handler file item" id="c0_f_16213562781">
+			<div class="dnd" draggable="true" data-downloadurl="application/vnd.openxmlformats-officedocument.wordprocessingml.document:coinCollecting.docx:/index.php?rm=box_v2_download_file&amp;file_id=f_16213562781&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-docx" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-docx" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213562781" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213562781" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213562781" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213562781" name="coinCollecting.docx"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213562781" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213562781" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">coinCollecting.docx</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li class="">Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">11.3 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213562781"><script type="text/x-template" id="jst-link_stats_tooltip_16213562781">Link Access Stats|Previews: 1<br/>Downloads: 0<br/>Status: Disabled</script><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="item_stat hoverlight prs op100" data-type="stats-btn" data-tooltipid="link_stats_tooltip_16213562781"><span class="list_img sprite_12x12_chart"></span>&nbsp;1</a><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213561847" class="item_mouseover_handler file item" id="c0_f_16213561847">
+			<div class="dnd" draggable="true" data-downloadurl="audio/x-wav:coin3.wav:/index.php?rm=box_v2_download_file&amp;file_id=f_16213561847&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213561847" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213561847" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213561847" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213561847" name="coin3.wav"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213561847" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213561847" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">coin3.wav</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li>Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">39.3 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213561847" style="display:none"><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>        
+	
+		
+<li data-type="item-row" data-typed-id="f_16213560851" class="item_mouseover_handler file item" id="c0_f_16213560851">
+			<div class="dnd" draggable="true" data-downloadurl="audio/x-wav:coin2.wav:/index.php?rm=box_v2_download_file&amp;file_id=f_16213560851&amp;print_download_url=1" style="display:block;">
+	
+	<ul class="file_properties">
+		<li class="lock_right_icon"><div class="lock sprite_16x16_lock"></div></li>
+		<li class="concurrent_lock_right_icon"><div class="concurrent_lock sprite_16x16_users_pencil"></div></li>
+		<li class="locked_key_right_icon"><div class="locked_key sprite_16x16_locked_key"></div></li>
+		<li class="task_to_complete"><div class="sprite_16x16_task" data-hover="tooltip" aria-label="Click to see task(s) assigned to you"></div></li>
+	</ul>
+	<div class="media"><div class="img"><div class="thumb_small sprite_doc_32_32-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div><div class="thumb_large thumb_large_center sprite_doc_40_40-wav" data-background-image="" style=""><div class="corner_overlay sync sprite_16x16_sync" data-hover="tooltip" aria-label="Synced|Box Sync is enabled for all items in this folder."></div></div></div>
+				<div class="item_data bd">
+		<ul class="action_list"><li class="action_share"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_menu_16213560851" class="share_menu share_link" data-type="share-btn" data-hover="tooltip" aria-label="Share this file">Share</a></li><li class="action feed_item"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="item_feed_menu_16213560851" class="item_feed_menu sprite_item_list_comment" data-type="item-feed-btn" data-hover="tooltip" aria-label="Add a comment or task."></a></li><li class="action more_item" data-type="context-menu-btn"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_more" id="arrow_16213560851" data-hover="tooltip" aria-label="More options"></a></li><li class="action select" data-type="select-checkbox"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_item_list_checkbox"><input type="checkbox" style="display: none;"></a></li></ul><div class="item-name-container" id="filename_16213560851" name="coin2.wav"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213560851" class="item_link item_name_text edit_in_place item_name dnd highlight" data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213560851" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type">coin2.wav</a></div><ul class="inline_list mvn for_hidden_external_collab_only"><li>This folder is owned by an external collaborator</li><li class="file_count"><span class="item_stat"><span class="list_img"></span></span></li></ul><ul class="inline_list item_creation_info mvn"><li>Uploaded&nbsp;Today&nbsp;by&nbsp;<a class="hoverlight profile_link" data-type="profile-link" href="https://iu.app.box.com/profile/201347422" target="_blank">Corey Harris</a></li><li class="list_divider">·</li><li class="item_size">33.9 KB</li><li><ul class="inline_list_ext"><li id="link_info_16213560851" style="display:none"><span class="js_enabled_text"></span></li></ul></li></ul>
+						<ul class="inline_list_ext edit_description" style="display:none">
+				
+														<li class="tags tag_container last-child" style="display: none;"></li>
+				
+																						
+							</ul>
+		</div>
+	</div> 			</div>
+</li>    </ul>
+
+				<div id="empty-placeholder" style="display: none;">
+					<div id="empty_files" class="empty line" style="display: none;"></div><div id="search_loading" class="empty line" style="display: none;"><div class="unit size1of4">&nbsp;</div><div id="searching_for_data" class="unit size1of2 pal"><div class="center_contents"><div class="center search_gif_container_disabled"></div><h2>Loading search results for <span id="search_pattern"></span></h2></div></div><div class="unit size1of4 last_unit">&nbsp;</div></div>				</div>
+			</div>
+
+			<div class="media">
+				<div id="mod-paging-bottom" class="module ptm txt_r" data-module="paging-bottom"></div>
+			</div>
+		</div>
+
+				<div class="gallery main" id="gallery" style="display: none;">
+
+	<div id="alternative_player" style="display: none;">
+		
+<div class="gallery_pseudo_container">
+	<span class="gallery_pseudo_corner_disable top_left"><!-- --></span>
+	<span class="gallery_pseudo_corner_disable top_right"><!-- --></span>
+	<div align="center" class="gallery_pseudo_content">
+		<div id="gallery_pseudo_icon_container">
+				
+		</div>
+	</div>
+</div>
+<div class="gallery_pseudo_bottom_bar">
+	<span id="bottom_bar_left">
+		<span id="bottom_bar_right">
+			<a href="https://iu.app.box.com/" target="_blank" class="bottom_bar_link">
+				<span class="bottom_bar_link_box"><!-- --></span>
+			</a>
+			<span id="bottom_bar_center">
+				
+			</span>
+		</span>
+	</span>
+</div>	</div>
+	<div id="no_flash" style="display: none">
+		
+
+
+<div class="gallery_pseudo_container">
+	<span class="gallery_pseudo_corner_disable top_left"><!-- --></span>
+	<span class="gallery_pseudo_corner_disable top_right"><!-- --></span>
+	<div align="center" class="gallery_pseudo_content">
+		<div id="gallery_pseudo_icon_container">
+			                <div class="gallery_pseudo_icon">&nbsp;</div>
+        
+    <div class="gallery_pseudo_icon_text ">
+                    <h4 class="gallery_pseudo_icon_text_title">Install the Latest Version of Flash</h4>
+            <p class="gallery_pseudo_icon_text_content">To take full advantage of Box's latest document preview technology, install the latest version of Adobe Flash.</p>
+            <a href="http://get.adobe.com/flashplayer/" target="_blank" id="install_flash_button"></a>
+            <p class="gallery_pseudo_icon_text_turn_off" id="preview_settings_hint">Or, turn off the preview function in your <a href="https://iu.app.box.com/settings" class="gallery_pseudo_link">Settings Page</a>.</p>
+            </div>
+	
+		</div>
+	</div>
+</div>
+<div class="gallery_pseudo_bottom_bar">
+	<span id="bottom_bar_left">
+		<span id="bottom_bar_right">
+			<a href="https://iu.app.box.com/" target="_blank" class="bottom_bar_link">
+				<span class="bottom_bar_link_box"><!-- --></span>
+			</a>
+			<span id="bottom_bar_center">
+					<span class="bottom_bar_text" style="display: none;">
+		To view files in your browser using Box, install the latest version of Adobe Flash.  <a href="http://get.adobe.com/flashplayer/" target="_blank" class="gallery_pseudo_link">Install Flash</a>
+	</span>
+
+			</span>
+		</span>
+	</span>
+</div>	</div>
+	<div id="gallery_error" style="display: none">
+		
+
+
+<div class="gallery_pseudo_container">
+	<span class="gallery_pseudo_corner_disable top_left"><!-- --></span>
+	<span class="gallery_pseudo_corner_disable top_right"><!-- --></span>
+	<div align="center" class="gallery_pseudo_content">
+		<div id="gallery_pseudo_icon_container">
+			    <img class="gallery_pseudo_icon fix_png" src="">
+
+    <div class="gallery_pseudo_icon_text">
+        <div class="title_and_size"><span class="title"></span> (<span class="size"></span>)</div>
+        <p class="error_title"></p>
+        <p class="error_content"></p>
+                    <button id="gallery_download_button" class="gallery_download_button">
+                <ul class="inline_list">
+                <li class="icon sprite_14x14_download"></li>
+                <li>Download</li>
+                </ul>
+            </button>
+            </div>
+	
+		</div>
+	</div>
+</div>
+<div class="gallery_pseudo_bottom_bar">
+	<span id="bottom_bar_left">
+		<span id="bottom_bar_right">
+			<a href="https://iu.app.box.com/" target="_blank" class="bottom_bar_link">
+				<span class="bottom_bar_link_box"><!-- --></span>
+			</a>
+			<span id="bottom_bar_center">
+				
+			</span>
+		</span>
+	</span>
+</div>	</div>
+	<div id="player"> </div>
+		<div class="module item_description_container mts pam edit_in_place_cntr cntr disable_selectable" data-module="item-description" data-type="previewer-description" style="word-wrap: break-word;" id="mod-item-description-2">
+		<span class="edit_in_place edit_in_place_inline item_description prs placeholder" data-url="/index.php?rm=box_files_update_item_info" data-field="description" data-item_id="gallery" data-item_type="file" data-behavior="edit_in_place" data-type="textarea" data-maxlength="255" placeholder="Add a description..." data-hover="tooltip" aria-label="Click to edit">Add a description...</span>
+	</div>
+
+	<div class="expansion_list gallery_expansion list_ext" id="gallery_item_feed_part">
+		<div id="gallery_item_feed_block" class="item_feed_block item_expansion_feed"></div>
+	</div>
+</div>	</div>
+</div>
+
+
+<div id="tpl_item_expansion" class="item_expansion" style="position: relative;">
+	<div class="item_expansion_share expansion_list">
+		<ul class="expansion"><li><div class="media shared_link_section"><div class="img_ext"><ul class="multi_button multi_input_button input_extra_large"><li><input type="text" class="shared_link_input" readonly="readonly" data-type="shared-link-input"><span class="expirations_status_icon" data-hover="tooltip" aria-label="This link will expire"><span class="sprite_18x18_alarm"></span></span></li><li><button href="#" class="multi_input_button_with_normal_font prs" data-type="send-btn" data-hover="tooltip" aria-label="Send link"><span class="img mls mrs sprite_item_list_email"></span><span>Send</span></button></li><li><button href="#" class="prs multi_input_button_with_normal_font" data-type="share-access-btn"><span class="sprite_16x16 mts mls"></span><span class="shared_access_label">Access</span><span class="sprite_9x9_down_arrow"></span></button></li></ul></div><div class="bd pts"><span class="img sprite_16x16_shared_link_blue mls"></span><strong class="spaced mts">Link to this <span class="share_node_type">file</span></strong></div></div><form class="invite_collabs_form" method="post" style="display: none"><table><tbody><tr><td class="invite_collabs"><strong>Invite Collaborators</strong><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">[?]</a></td><td colspan="2"><textarea name="emails"></textarea></td></tr><tr><td class="select_access_type">Select access type</td><td class="access_types"></td><td><input type="submit" value="Invite" class="submit"></td></tr></tbody></table><input type="hidden" name="request_token" style="display: none;" value="09285338d78f9513e4e5bc378484ada84e38b539ddf3c552a6ed8af961444ce2"></form></li><li class="item_expansion_tip"><div class="media item_expansion_share_collab_invite"><div class="img_ext item_collaborators_input input_extra_large"></div><div class="bd pts"><div class="img sprite_16x16_collab_blue mls"></div><strong class="spaced mts">Invite Collaborators:</strong></div></div></li></ul>
+	</div>
+
+	<div class="item_expansion_comments expansion_list">
+		<ul class="expansion"></ul>
+	</div>
+	<div class="item_expansion_feed expansion_list">
+		<ul class="expansion"></ul>
+	</div>
+		<ul class="item_expansion_tasks item_expansion_tasks_all_files expansion_list"></ul>
+</div>
+
+<div class="cntr bubble bubble_sidebar" id="user_menu" style="display: none;">
+	<div class="bd phm pbs">
+		<div class="media mbn">
+			<div data-background-image="https://e1.boxcdn.net/_assets/img/box/box_user_avatar_large-M9h6O2.png" class="avatar img profile_pic mrm mbs"></div> 			<div class="bd">
+				<ul class="basic_list">
+					<li class="name ellipsis ellipsis_240 ptn"></li>
+					<li class="email ellipsis ellipsis_240"></li>
+					<li class="title ellipsis ellipsis_240"></li>
+					<li class="not_accepted">Has not accepted yet</li>
+					<li class="group_tags"></li>
+										<li class="updates lh16" style="display: inline"></li>
+				</ul>
+			</div>
+		</div>
+		<div class="expires"></div>
+	</div>
+	<div class="ft pll prm pvs">
+		<ul class="inline_list_ext user_menu_links">
+			<li class="email_link"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Email</a></li>
+			<li class="profile"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Profile</a></li>
+			<li class="resend_invite"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Resend invite</a></li>
+						<li class="access last-child">
+				<a id="access_level_link_for_collaborator" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="drop_link" onmousedown="return false;" onclick="return false;">Access: <span class="access_level"></span><span class="arrow"></span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<span class="arrow"></span>
+</div>
+
+<div class="cntr drop_down_ext" id="user_menu_roles" style="display: none;">
+	<ul class="list_menu hover_list use_sideways_tooltip">
+	</ul>
+</div>
+<div class="cntr drop_down_ext dd_menu_share_access dd_menu_action_required popup_submenu handle_menu_events" id="dd_menu_share_access" style="display: none; width:320px;">
+	<ul id="share_access_normal_container" class="list_ext">
+		<li id="share_access_open" class="use_sideways_tooltip plm pvs">
+			<div class="prs">
+				<input type="radio" name="shared_link_access_type" class="access_type">
+				<span class="img icon sprite_16x16_link_blue"></span>
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><b>Open</b></a>
+				<div class="mll">
+					<p class="description">Anyone with the link can access. No log in required.</p>
+					<ul class="basic_list_sm share_access_actions hidden_onload">
+						<li id="share_access_custom_link_cntr">
+							<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_custom_link_detail_toggle">Set Custom URL</a>
+							<div class="error_message hidden_onload error_msg mrl mvs">Please enter a custom url.  You can use letters, numbers and hyphens.</div>
+							<span class="upgrade badge hidden_onload" id="share_access_custom_link_block_pro">UPGRADE</span>
+							<div class="share_access_custom_link_option mts hidden_onload" id="share_access_custom_link_options">
+																<ul id="share_access_custom_link_display_cntr" class="inline_list hidden_onload">
+									<li class="prn">
+									<span id="share_access_custom_link_text" class="ellipsis ellipsis_200"><span class="share_access_custom_link_root">																			https://iu.box.com/
+																	</span><span id="share_access_custom_link_vanity_name"></span></span>
+									</li>
+									<li class="prn">
+										<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_custom_link_edit"><span class="sprite_16x16_pencil list_img">&nbsp;</span></a>
+									</li>
+									<li class="prn">
+										<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_custom_link_delete"><span class="sprite_16x16_close list_img">&nbsp;</span></a>
+									</li>
+								</ul>
+								<div id="share_access_custom_link_input_cntr">
+									<span class="share_access_custom_link_root">																			https://iu.box.com/
+																	</span>
+									<input type="text" id="share_access_custom_link_input" style="width: 110px;">
+									<div class="large_label notice_label mvs txt_c" id="open_custom_link_warning">Not recommended for sensitive information</div>
+									<button id="share_access_set_custom_link_button" class="man invert_color">Save</button>
+								</div>
+							</div>
+						</li>
+						<li id="share_access_password_cntr">
+							<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_password_detail_toggle">Set Password</a>
+							<div class="error_message hidden_onload error_msg mrl mvs">Please enter a password.</div>
+							<span class="upgrade badge hidden_onload" id="share_access_password_block_pro">UPGRADE</span>
+							<div class="share_access_password_option mts hidden_onload" id="share_access_password_options">
+								<ul id="share_access_password_display_cntr" class="inline_list hidden_onload">
+									<li>
+										<span id="share_access_password_text" class="ellipsis"></span>
+									</li>
+									<li class="prn">
+										<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_password_delete"><span class="sprite_16x16_close list_img">&nbsp;</span></a>
+									</li>
+								</ul>
+								<div id="share_access_password_input_cntr">
+									<input type="text" id="share_access_password_input" style="width: 110px;">
+									<button id="share_access_set_password_button" class="man invert_color">Save</button>
+								</div>
+								<span id="shared_access_file_embed_password_warning" style="display: none;" class="legal faded pbs">Password will apply to shared links, but not file embeds</span>
+							</div>
+						</li>
+
+						<li id="share_access_expiration_cntr">
+							<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_expiration_detail_toggle">Set Expiration</a>
+							<span class="upgrade badge hidden_onload" id="share_access_expiration_block_pro">UPGRADE</span>
+							<div class="share_access_expiration_option mts hidden_onload" id="share_access_expiration_options">
+								<div class="unit control input datepicker mrs" style="width: 120px;">
+									<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_16x16_cal_icon img_ext"></a>
+									<input type="text" class="input input_with_right_icons hasDatepicker" style="width: 80px;" readonly="readonly" name="share_access_expiration_date">
+									<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="sprite_16x16_delete img_ext" style="display: none;"></a>
+								</div>
+								<button id="share_access_set_expiration" class="man invert_color unit">Save</button>
+							</div>
+						</li>
+
+						<li id="share_access_permissions_cntr">
+							<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="share_access_permission_detail_toggle">Set Restrictions</a>
+							<div class="share_access_security_option hidden_onload" id="share_access_permission_options">
+								<ul class="basic_list pls mts">
+									<li id="share_access_permission_disabled" class="hidden_onload"><div class="cntr confirmation">Shared link download option <br>for this share is disabled. <a href="https://iu.app.box.com/settings/collaboration" id="share_access_permissions_change_settings">Change settings</a></div></li>
+									<li id="share_access_permission_download_off" class="security_access_option">
+										<input type="checkbox" name="security_access_download_restricted" id="shared_download_off"> <a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><label for="shared_download_off" class="clickable">Turn download off</label></a>
+									</li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li id="share_access_company" class="use_sideways_tooltip plm pvs">
+			<div class="prs">
+				<input type="radio" name="shared_link_access_type" class="access_type">
+				<span class="img icon sprite_16x16_company_blue"></span>
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><strong>Your Company</strong></a>
+				<div class="mll">
+					<p class="description">Only users logged in with a <span id="share_access_menu_email_domain"></span> email or users collaborating in this folder can access this content.</p>
+					<ul class="basic_list_sm share_access_actions hidden_onload">
+						<!-- JS will move the need options from above into this container -->
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li id="share_access_restricted" class="use_sideways_tooltip plm pvs">
+			<div class="prs">
+				<input type="radio" name="shared_link_access_type" class="access_type">
+				<span class="img icon sprite_16x16_restricted_blue"></span>
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><strong>Collaborators Only</strong></a>
+				<div class="mll">
+					<p class="description">Only users collaborating in this folder can access this content.</p>
+					<ul class="basic_list_sm share_access_actions hidden_onload">
+						<!-- JS will move the need options from above into this container -->
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li id="share_access_disabled" class="use_sideways_tooltip plm pvs no_bottom_border">
+			<div class="prs">
+				<input type="radio" name="shared_link_access_type" class="access_type">
+				<span class="img icon sprite_14x14_close_blue"></span>
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><strong>No Link</strong></a>
+				<div class="mll">
+					<p class="description">This content cannot be accessed from a shared link. Collaborators will still have access.</p>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div><div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="dd_menu_box_item" style="display: none;">
+	<ul class="list_menu hover_list" id="item_menu_multiselect"></ul>
+	<ul class="list_menu hover_list item_menu has_submenu">
+		<li class="separator pan ignore_mouseover" id="default_openbox_separator"><hr class="divider mbn mhs"></li>
+		<li id="item_menu_box_edit">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_edit_file"></span><span class="item_menu_label ellipsis ellipsis_170">Edit with Desktop App</span>
+			</a>
+		</li>
+		<li id="item_menu_open">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_open"></span>Open
+			</a>
+		</li>
+		<li id="item_menu_open_new_tab">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_new_window"></span>Open in New Tab
+			</a>
+		</li>
+		<li id="item_menu_preview">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_preview"></span>Preview
+			</a>
+		</li>
+		<li id="item_menu_preview_new_tab">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_new_window"></span>Preview in New Tab
+			</a>
+		</li>
+		<li id="item_menu_edit_file">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_edit_file"></span>Edit
+			</a>
+		</li>
+		<li id="item_menu_download">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_download"></span>Download
+			</a>
+		</li>
+		<li id="item_menu_new_folder">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_small_typed_folder"></span>New Folder
+			</a>
+		</li>
+		<li id="item_menu_upload_new_version">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_upload"></span>Upload New Version
+			</a>
+		</li>
+		<li id="item_menu_upload_new_to_folder" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_upload&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_upload"></span>Upload Options
+			</a>
+		</li>
+
+				<li id="item_menu_lock_for_free_user">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img italic sprite_16x16_lock"></span>Lock File
+				<span class="badge upgrade">UPGRADE</span>
+			</a>
+		</li>
+		<li id="item_menu_lock">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_lock"></span>Lock File
+			</a>
+		</li>
+		<li id="item_menu_unlock">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_unlock"></span>Unlock File
+			</a>
+		</li>
+		<li id="item_menu_request_unlock">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_unlock"></span>Request Unlock
+			</a>
+		</li>
+
+		<li class="separator pan ignore_mouseover"><hr class="divider mbn mhs"></li>
+
+
+		<li id="item_menu_share" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_share&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_share"></span>Share
+			</a>
+		</li>
+		<li id="item_menu_add_edit_tags">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_tags"></span>Add / Edit Tags
+			</a>
+		</li>
+		<li id="item_menu_item_in_boards">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_post"></span>Add to Collections
+			</a>
+		</li>
+		<li id="item_menu_remove_item_in_pin_board">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_post"></span>Remove from Collection
+			</a>
+		</li>
+		<li id="item_menu_sync"> 			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sync_dark_gray"></span>Sync Folder to Computer
+			</a>
+		</li>
+		<li id="item_menu_sync_for_free_user"> 			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sync_dark_gray"></span>Sync to Computer
+				<span class="badge upgrade">UPGRADE</span>
+			</a>
+		</li>
+		<li id="item_menu_disable_sync">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sync_dark_gray"></span>Disable Sync for this Folder
+			</a>
+		</li>
+				<li id="item_menu_folder_fully_synced" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_sync_folder&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sync_dark_gray"></span>Synced
+			</a>
+		</li>
+				<li id="item_menu_folder_partially_synced" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_sync_folder&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sync_dark_gray"></span>Some Items Synced
+			</a>
+		</li>
+
+		<li class="separator pan ignore_mouseover"><hr class="divider mbn mhs"></li>
+						<li id="item_menu_view" onmouseover="Box_Menus.get().menu.show_submenu(&#39;view_options_menu&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_list_view_selected_gray"></span>View
+			</a>
+		</li>
+				<li id="item_menu_sort" onmouseover="Box_Menus.get().menu.show_submenu(&#39;file_sort_list&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_sort_gray"></span>Sort
+			</a>
+		</li>
+
+		<li id="item_menu_properties" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_properties&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_info"></span>Properties
+			</a>
+		</li>
+
+		<li id="item_menu_move">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_move_copy"></span>Move or Copy
+			</a>
+		</li>
+		<li id="item_menu_remove_folder">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_close"></span>Remove Folder
+			</a>
+		</li>
+		<li id="item_menu_revoke_folder">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_close"></span>Revoke Access
+			</a>
+		</li>
+		<li id="item_menu_delete">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_trash"></span>Delete
+			</a>
+		</li>
+
+		<li class="separator pan ignore_mouseover"><hr class="divider mbn mhs"></li>
+
+		<li id="item_menu_more_openbox" onmouseover="Box_Menus.get().menu.show_submenu(&#39;item_submenu_openbox&#39;, this); return false;">
+			<b class="right_arrow sprite_9x9_right_arrow"></b>
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+								<span class="list_img sprite_16x16 sprite_no_content center_contents"><span class="badge update"></span></span>More Actions
+			</a>
+		</li>
+		<li id="item_menu_add_services" class="use_sideways_tooltip" data-hover="tooltip" aria-label="Applications|You can add additional functionality to your Box files by clicking on the &#39;Apps&#39; tab.">
+			<a href="https://iu.app.box.com/services" target="_blank">
+				<span class="list_img sprite_16x16_add"></span>Add Applications…
+			</a>
+		</li>
+		<li id="item_menu_delete_from_trash">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_close"></span>Delete
+			</a>
+		</li>
+		<li id="item_menu_restore">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_upload"></span>Restore
+			</a>
+		</li>
+		<li id="item_menu_export">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_16x16_upload"></span>Export
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="item_submenu_upload" style="display: none;">
+	<ul class="list_menu hover_list item_menu">
+		<li id="item_submenu_email_upload"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Email Files to this Folder</a></li>
+		<li id="item_submenu_upload_widget"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Embed Upload Widget <span class="badge upgrade">UPGRADE</span></a></li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="item_submenu_share" style="display: none;">
+	<ul class="list_menu hover_list item_menu">
+		<li id="item_submenu_collaborate"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Invite Collaborators</a></li>
+		<li id="item_submenu_get_link"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Get Link</a></li>
+		<li id="item_submenu_send_link"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Send Link</a></li>
+		<li id="item_submenu_embed_widget"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Embed into Your Site</a></li>
+		<li id="item_submenu_unshare"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Disable Link</a></li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="item_submenu_properties" style="display: none;">
+	<ul class="list_menu hover_list item_menu">
+	<li id="item_submenu_general_info"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">General Info</a></li>
+	<li id="item_submenu_access_stats"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Access Stats</a></li>
+	<li id="item_submenu_version_for_free_user"><a class="feature_italic item_menu_item" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Version History <span class="badge upgrade">UPGRADE</span></a></li>
+	<li id="item_submenu_version"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Version History</a></li>
+	<li id="item_submenu_email"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Email Options</a></li>
+	<li id="item_submenu_collaborators"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Collaborators</a></li>
+	<li id="item_submenu_advanced"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Security</a></li>
+	<li id="item_submenu_expiration"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Set Expiration</a></li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="item_submenu_sync_folder" style="display:none;">
+	<ul class="list_menu hover_list item_menu">
+		<li id="item_submenu_sync_folder_disabled" class="ignore_mouseover disabled">Sync</li>
+		<li id="item_submenu_sync_remaining"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Sync all items in this folder</a></li>
+		<li id="item_submenu_unsync"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Unsync</a></li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="item_submenu_openbox" style="display: none;">
+	<ul class="list_menu hover_list item_menu" id="submenu_openbox_menu">
+		<li class="separator pan ignore_mouseover" id="openbox_separator"><hr class="divider mbn mhs"></li>
+		<li id="item_submenu_add_services"><a href="https://iu.app.box.com/services" target="_blank"><span class="list_img sprite_16x16_add"></span>Add Applications…</a></li>
+	</ul>
+</div><div class="cntr drop_down_ext" id="dd_menu_upload" style="display: none;">
+	<ul class="list_menu hover_list item_menu handle_menu_events">
+		<li id="upload_menu_upload_files"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Upload Files</a></li>
+		<li id="upload_menu_bulk_upload">
+			<a id="upload_menu_bulk_upload_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="Upload_Process.get().popup_upload_java_open(); return false;">
+				Upload Folders
+			</a>
+		</li>
+	</ul>
+</div><div id="tags_outer_container" class="cntr drop_down bubble disable_selectable" style="display:none">
+	<div id="tag_and_filter_list_container" class="scrollable tags_dropdown_container">
+		<ul id="tag_filter_selector_row" class="inline_list pas">
+			<li class="img_ext sprite_16x16_select fakebox select_all select_all_checkbox prn"></li>
+			<li><a class="midlight tag_menu_option" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="tag_all">All tags</a></li>
+			<li><a class="badge filter tag_menu_option" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="tag_my">My tags</a></li>
+		</ul>
+		<hr class="divider mbn mhs">
+		<ul id="tag_and_filter_list" class="selector_list_ext clickable needs_hover">
+		</ul>
+
+		<table id="tag_loading" style="display: none;">
+			<tbody><tr>
+				<td><div class="pas spinner_gif_container"></div></td>
+				<td>Loading tags</td>
+			</tr>
+		</tbody></table>
+	</div>
+</div><div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="sort_list" style="display: none;"><ul class="list_menu hover_list item_menu"><li id="sort_link_relevance" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Relevance<span class="arrow"></span></a></li><li id="sort_link_deleted" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Date Deleted<span class="arrow"></span></a></li><li id="sort_link_name" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Name<span class="arrow"></span></a></li><li id="sort_link_date" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Date<span class="arrow"></span></a></li><li id="sort_link_size" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Size<span class="arrow"></span></a></li><li id="sort_link_email" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Email Address<span class="arrow"></span></a></li><li id="sort_link_folders" class="sort_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Number of Common Folders<span class="arrow"></span></a></li><li id="search_filter_none" class="filter_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">None</a></li><li id="search_filter_folder" class="filter_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Folders only</a></li><li id="search_filter_file" class="filter_option"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Files only</a></li></ul></div>
+<div class="cntr drop_down_ext handle_menu_events" id="task_type_selector_menu" style="display: none;"><ul class="list_menu hover_list"><li id="task_type_review"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="sprite_16x16_review list_img"></span>To Review</a></li><li id="task_type_approve"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="sprite_16x16_approve list_img"></span>To Approve</a></li><li id="task_type_update"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="sprite_16x16_update list_img"></span>To Update</a></li></ul></div>
+<div class="cntr drop_down_ext handle_menu_events" id="task_assignment_status_menu" style="display: none;">
+	<ul class="list_menu hover_list">
+		<li id="task_assignment_status_menu_complete" class="phs">
+			<a id="task_assignment_status_menu_complete_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				✔ Complete
+			</a>
+		</li>
+		<li id="task_assignment_status_menu_approve" class="phs">
+			<span class="sprite_12x12_green_plus list_img"></span>
+			<a id="task_assignment_status_menu_approve_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="mrm">
+				Approve
+			</a>
+		</li>
+		<li id="task_assignment_status_menu_reject" class="phs">
+			<span class="sprite_12x12_red_minus list_img"></span>
+			<a id="task_assignment_status_menu_reject_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				Reject
+			</a>
+		</li>
+		<li id="task_assignment_status_menu_incomplete" class="phs">
+			<a id="task_assignment_status_menu_incomplete_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				? Incomplete
+			</a>
+		</li>
+		<li id="task_assignment_status_menu_comment" class="phs">
+			<span class="sprite_12x12_reply_blue list_img"></span>
+			<a id="task_assignment_status_menu_comment_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="mrm">
+				Comment
+			</a>
+		</li>
+		<li id="task_assignment_status_menu_decline" class="phs">
+			<a id="task_assignment_status_menu_decline_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				✗ Decline Task
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="cntr drop_down_ext handle_menu_events" id="task_assignee_menu" style="display: none;"><ul class="list_menu hover_list"><li id="task_assignee_remind"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="sprite_16x16_switch_version list_img"></span>Remind</a></li><li id="task_assignee_remove"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#"><span class="sprite_16x16_close list_img"></span>Remove</a></li></ul></div>
+<div class="cntr bubble pan" id="folder_picker_menu" style="display: none; width: 275px; overflow:hidden;">
+
+</div>
+
+<div id="folder_membership_permission_menu" class="handle_menu_events" style="display:none;">
+	<div class="cntr drop_down_ext">
+		<ul class="list_menu hover_list">
+			<li><a id="folder_permission_Editor" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Editor</a></li>
+			<li><a id="folder_permission_Viewer" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">Viewer</a></li>
+		</ul>
+	</div>
+</div>
+<div class="cntr bubble bubble_sidebar" id="pin_board_menu" style="display: none;">
+	<div class="bd phm">
+		<div class="media mbn">
+			<h6 id="items_in_pin_board_light_list_title" class="mtn">Items in Collection</h6>
+			<div class="media" id="items_in_pin_board_light_list">
+			</div>
+		</div>
+	</div>
+	<div class="ft phm pvs center_contents strong">
+		<a id="link_to_pin_board_page_in_menu" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="big_target">View full details</a>
+	</div>
+	<span class="arrow"></span>
+</div>
+<script type="text/x-template" id="jst-upload-menu"><ul data-type="upload-menu" style="position: absolute; display: none"><li data-type="upload-files-option"><a href="#">Upload Files</a></li><li data-type="upload-directory-option"><a href="#">Upload Folders</a></li></ul>
+</script><script type="text/x-template" id="jst-view-options-menu"><ul data-type="view-options-menu" class="view-options-menu list_menu" style="position: absolute; display: none;"><li class="ui-menu-label sort-label pts">Sort by</li><li data-type="sort" data-sort="relevance"><a href="#"><span class="arrow"></span>Relevance</a></li><li data-type="sort" data-sort="deleted"><a href="#"><span class="arrow"></span>Date Deleted</a></li><li data-type="sort" data-sort="name"><a href="#"><span class="arrow"></span>Name</a></li><li data-type="sort" data-sort="date"><a href="#"><span class="arrow"></span>Date</a></li><li data-type="sort" data-sort="size"><a href="#"><span class="arrow"></span>Size</a></li><li data-type="sort" data-sort="email"><a href="#"><span class="arrow"></span>Email Address</a></li><li data-type="sort" data-sort="folders"><a href="#"><span class="arrow"></span>Number of Common Folders</a></li><li class="display-divider mvs">-</li><li class="ui-menu-label display-label">Display as</li><li data-type="display" data-display="list"><a href="#"><span class="icon mrm sprite_menus_list_view_inactive"></span>List View</a></li><li data-type="display" data-display="icon"><a href="#"><span class="icon mrm sprite_menus_icon_view_inactive"></span>Icon View</a></li><li class="filter-divider mvs">-</li><li class="ui-menu-label filter-label">Filter by</li><li data-type="filter" data-filter="deleted"><a href="#">Items I Deleted</a></li><li data-type="filter" data-filter="owned"><a href="#">Items I Own</a></li></ul></div>
+</script><div id="mod-breadcrumb-ellipses-menu" class="module" data-module="breadcrumb-ellipses-menu"><ul id="breadcrumb_ellipses_menu" class="list_menu ui-menu ui-widget ui-widget-content ui-corner-all" style="display: none;" role="menu" tabindex="0"></ul></div>
+<div id="folder_tree"></div>
+
+<div id="tpl_master_invite" class="pending_invite" style="display:none;">
+	<span id="master_invite_id" class="links">You have been requested to join the <span id="enterprise_invite_network_name"></span> Enterprise Network: <a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="master_invite_accept" data-action_master_invite_accept="true">Accept</a> or <a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="master_invite_reject" data-action_master_invite_reject="true">Reject</a></span>
+</div>
+
+
+
+<div id="popup_message" class="hidden">
+		</div>
+<script type="text/javascript">
+var log_ajax_upload_speed = ''
+	,root_folder_id='d_0'
+		,flash_upload_url = 'https://fupload-ord.box.com/cgi-bin/mod_perl-multipart_form_upload2.pl'
+	,progress_upload_url = 'https://fupload-ord.box.com/cgi-bin/upload2.pl'
+	,fast_upload = '1'
+	,use_upload_session_id = 1	,zip_type = ''
+	,uses_branding=0	,enable_collab_link = true	,accept_collab_by_email =  false 	,first_load = {"type":"unidb","params":{"file_sort":null,"users":{"212233190":{"unidb":"user_212233190"}},"group_tags":[],"folder_sort":"date","is_trash_disabled":false,"master_invites":[],"current_page":1,"page_size":20,"page_count":1,"path":{"p_0":{"id":0,"last":1,"name":"All Files","item_url":"https:\/\/iu.app.box.com\/files\/0\/f\/0","url":"\/files\/0\/f\/0\/"}},"pending_collab":[],"sort":"date","sort_direction":"DESC","status":"success","upload_redirect":null,"account_info":{"is_enterprise":true,"bandwidth":null,"space_used":"717.7KB","is_trash_disabled":false,"total_space":"50.0GB","account_type":"enterprise","account_type_display_name":"Enterprise"},"is_deleted":0,"required_pending_collab":null,"linkedin_update_file_name":null,"disable_popup_linkedin":null,"is_scrollable_ellipses_menu":false,"path_html":"<li class=\"breadcrumb_item all_files first last\"><a href=\"\/files\/0\/f\/0\/\" class=\"allow_right_click breadcrumb_item_link last\" data-type=\"path-link\"><span class=\"breadcrumb_item_title\">All Files<button class=\"label btn_label jump_to_folder mls\" data-type=\"jump-to-folder-link\"><span class=\"toggle\"><b class=\"arrow\"><\/b><\/span>Jump to folder<\/button><\/span><\/a><\/li>","sub_path_html":"","nodes":[{"unidb":"folder_1846117755"},{"unidb":"file_14681819722"}],"folder_info":{"unidb":"folder_0"},"theme":{"unidb":"theme_22737"},"main_pic_urls":{"small":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSBw9nfOhDq6RW8yXiHfdEb3pNOGvgv_pNIAoQhrh8gifloxslPKOKf2SrKK-jSRuFmWpjfV_EezIuuDDYQqrqBpmOiLETr1wOfNS3dLVFGPRmkAJj_xT6E2HR0iRadwBtNVGv7SVCxKoPYQQU-fwfT1RgvRXsL3pHdMcACtptBkn-ZLBOUwM5Se6AP-DBD_IsLTi3Kieqnd4JFNe3qZotktJ38NuF5mPv7miObqk7RXGck5tqUQE3YHoJVQWRXBIbQ,,","large":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSJPiWqENv1Gs4Ge3EqhJH8thsF2KDLujtQaudDblNkUJhwSlorotYsOao-5vfDBFbcaWNaFKl1Rxywm2xUO1phM_LVA7DXtol8zNDLwoEmeXlA7KnPmM1wOsuZuUjSoOxkGg7UlH_7KFAWTgByiKBps3jqMGoCYX7UBJXHiMGsqxGeGuVOcyEh6sp2wab-OY0-2wxCCsxhDkQo8oSReFHJw,","preview":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSI6nbBZjfJx6jQNxJStenHZjfR1X6wmJF27QWZc_KPuDDyh_xGTccoJmXSPcree9jFV_aHQg2urBEIkwPTyxsDsDvu86Eb5zqMCYNf2_02_4HlfCFaHWkutuXGtks4jr34kmkj2Z9fblsRulLaJP1oSj8RiG85qUSSfetj5Zv3LFkX7CWJM8JTuDz3uN1bzCoS4s7pJfL8RlBdsCyrMUJ9Q8O0C7jbgvn7bieWsqWfuhIH9KwUC-P1p4KpEL8rsF7A,,"}},"db":{"user_212233190":{"typed_id":"u_212233190","type":"user","id":212233190,"name":"Eric Swartz","job_title":"","email":"epswartz@iupui.edu","pic_urls":{"small":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","large":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_large-M9h6O2.png","preview":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_preview-k-CXuq.png"},"auto_accept_collab":true,"hide_auto_accept_collab_dialog":false,"hide_upload_new_version_upgrade_dialog":false,"enterprise_id":81319,"is_external_collab_restricted":false,"hostname":"https:\/\/iu.app.box.com\/","unidb_formats":["item_owner_info"]},"folder_1846117755":{"typed_id":"d_1846117755","type":"folder","id":1846117755,"user_id":201347422,"hostname":"https:\/\/iu.app.box.com\/","user_is_owner":0,"owner":"Corey Harris","owner_enterprise_display_domain":"Indiana University","owner_enterprise_desc_domain":"iu.edu, indiana.edu, iupui.edu, iuk.edu, iun.edu, iusb.edu, iue.edu, iupuc.edu, ius.edu, imail.iu.edu, umail.iu.edu, cs.indiana.edu, cs.iupui.edu, math.iupui.edu, incntre.iu.edu, regenstrief.org, acui.org","owner_is_free":false,"owner_enterprise_id":81319,"owner_disabled_shared_download":false,"owner_enterprise_disable_open_custom_links":false,"name":"coinCollector","shared_name":"","file_id_hash":null,"is_deleted":false,"is_quarantined":false,"description":"","info":"","parent":0,"shared":false,"raw_size":648291,"raw_date":1397494894,"files_count":8,"content_type":"","url":"","shared_download_count":0,"shared_preview_count":0,"sha1":null,"extension":null,"uniq_name":null,"action_id":null,"created":1397494774,"url_for_page_link":"\/files\/0\/f\/1846117755\/coinCollector","service_item_icon":null,"tags":null,"partner_tags":null,"is_synced_for_current_user":false,"expirations":[],"can_change_share_expiration":true,"can_change_delete_expiration":false,"last_updated_by":"Corey Harris","last_updated_by_user_id":201347422,"anonymous_upload_with_name":null,"created_by":"Corey Harris","created_by_user_id":201347422,"allow_invite_collaborators":true,"can_invite_collaborators":true,"hide_collaborators":false,"restrict_collab_to_company":false,"open_collab_invite_permission":"","parent_hide_collaborators":false,"is_executable":false,"referencing_integration_pic":"","version_count":0,"use_created":false,"comments_count":"0","deleted":0,"date":1397494894,"is_self_or_ancestor_collaborated":true,"collaborated":true,"collaborators_count":1,"collaborators_display_count":2,"task_count":null,"has_task_to_complete":null,"lock":null,"locked":0,"locked_key":0,"concurrently_locked":null,"granted_permissions":{"item_restore":false,"item_delete_from_trash":false,"item_download":true,"item_create_collab":true,"item_create_view_path_collab":false,"item_create_comment":true,"item_create_tag":true,"item_create_task":false,"item_delete":false,"item_options":false,"item_preview":true,"item_rename":true,"item_set_share_access":true,"item_share":true,"item_synchronize":true,"item_upload":true,"item_view":true,"item_view_file_version":false,"item_remove":false,"item_can_non_owners_invite_collab":false,"create_instant_mode_authorization":false,"restore_from_quarantine":false,"delete_file_version":false,"make_version_current":false,"item_view_download_stats":true},"permissions":"dkcgpnhsyuv","removed_permissions":{"item_create_task":"item_is_not_a_file_or_file_version","item_view_file_version":"item_is_not_a_file_or_file_version","item_remove":"slave_status_Active","restore_from_quarantine":"item_is_not_a_file_or_file_version","delete_file_version":"item_is_not_a_file_or_file_version","make_version_current":"item_is_not_a_file_or_file_version"},"not_shareable":false,"not_commentable":false,"downloadable":true,"renameable":true,"syncable":true,"user_is_co_owner":false,"user_is_viewer":true,"can_collaborate":true,"show_preview_shortcut":true,"show_download_shortcut":true,"missing_thumbnails":null,"pic_l":"https:\/\/e1.boxcdn.net\/_assets\/thumbs\/48x48\/folder_collaborated-sXJbQc.gif","pic_s":"https:\/\/e1.boxcdn.net\/_assets\/thumbs\/24x24\/folder_collaborated-V6zVdH.gif","pic_x":null,"has_pic_x":null,"image":null,"thumb_class_large":"sprite_48x48_collab_folder","thumb_class_small":"sprite_32x32_collab_folder","deleted_by":null,"deleted_by_user_id":null,"deleted_from_trash":null,"path":null,"path_parent_deleted":null,"is_app_folder":false,"app_folder_icon":null,"service_name":null,"service_id":null,"unidb_formats":["box_files"]},"file_14681819722":{"typed_id":"f_14681819722","type":"file","id":14681819722,"user_id":212233190,"hostname":"https:\/\/iu.app.box.com\/","user_is_owner":1,"owner":"Eric Swartz","owner_enterprise_display_domain":"Indiana University","owner_enterprise_desc_domain":"iu.edu, indiana.edu, iupui.edu, iuk.edu, iun.edu, iusb.edu, iue.edu, iupuc.edu, ius.edu, imail.iu.edu, umail.iu.edu, cs.indiana.edu, cs.iupui.edu, math.iupui.edu, incntre.iu.edu, regenstrief.org, acui.org","owner_is_free":false,"owner_enterprise_id":81319,"owner_disabled_shared_download":false,"owner_enterprise_disable_open_custom_links":false,"name":"gameDoc.pdf","shared_name":"","file_id_hash":"a1a9bb","is_deleted":false,"is_quarantined":false,"description":"","info":"","parent":0,"shared":false,"raw_size":734940,"raw_date":1393256449,"files_count":1,"content_type":"application\/pdf","url":"","shared_download_count":0,"shared_preview_count":0,"sha1":"26a8528188d4902d74102b80d5fca7a7f123d177","extension":"pdf","uniq_name":"3e0d8b88c492e8e6f965c7985c98211e","action_id":null,"created":1393256446,"url_for_page_link":"\/files\/0\/f\/0\/1\/f_14681819722","service_item_icon":null,"tags":null,"partner_tags":null,"is_synced_for_current_user":null,"expirations":[],"can_change_share_expiration":true,"can_change_delete_expiration":true,"last_updated_by":"Eric Swartz","last_updated_by_user_id":212233190,"anonymous_upload_with_name":null,"created_by":"Eric Swartz","created_by_user_id":212233190,"allow_invite_collaborators":null,"can_invite_collaborators":0,"hide_collaborators":false,"restrict_collab_to_company":false,"open_collab_invite_permission":"","parent_hide_collaborators":false,"is_executable":false,"referencing_integration_pic":[],"version_count":0,"use_created":true,"comments_count":"0","deleted":0,"date":1393256449,"is_self_or_ancestor_collaborated":null,"collaborated":false,"collaborators_count":0,"collaborators_display_count":1,"task_count":0,"has_task_to_complete":null,"lock":null,"locked":0,"locked_key":0,"concurrently_locked":null,"granted_permissions":{"item_restore":false,"item_delete_from_trash":false,"item_download":true,"item_create_collab":false,"item_create_view_path_collab":false,"item_create_comment":true,"item_create_tag":true,"item_create_task":true,"item_delete":true,"item_options":true,"item_preview":true,"item_rename":true,"item_set_share_access":true,"item_share":true,"item_synchronize":false,"item_upload":true,"item_view":true,"item_view_file_version":true,"item_remove":false,"item_can_non_owners_invite_collab":false,"create_instant_mode_authorization":false,"restore_from_quarantine":false,"delete_file_version":false,"make_version_current":false,"item_view_download_stats":true},"permissions":"dcgteopnhsuv","removed_permissions":{"item_synchronize":"single_file_sync_not_supported","item_remove":"slave_status_Active","delete_file_version":"file_is_current_version","make_version_current":"file_is_current_version"},"not_shareable":false,"not_commentable":false,"downloadable":true,"renameable":true,"syncable":false,"user_is_co_owner":true,"user_is_viewer":false,"can_collaborate":false,"show_preview_shortcut":true,"show_download_shortcut":true,"missing_thumbnails":null,"pic_l":null,"pic_s":null,"pic_x":null,"has_pic_x":null,"image":null,"thumb_class_large":"sprite_doc_40_40-pdf","thumb_class_small":"sprite_doc_32_32-pdf","deleted_by":null,"deleted_by_user_id":null,"deleted_from_trash":null,"path":null,"path_parent_deleted":null,"is_app_folder":false,"app_folder_icon":null,"service_name":null,"service_id":null,"unidb_formats":["box_files"]},"folder_0":{"typed_id":"d_0","type":"folder","id":0,"user_id":212233190,"name":"","raw_size":734940,"created":null,"date":null,"is_trash_folder":false,"is_deleted":false,"is_quarantined":false,"description":null,"file_count":null,"is_synced_for_current_user":false,"parent":null,"shared":false,"allow_invite_collaborators":false,"can_invite_collaborators":null,"hide_collaborators":null,"open_collab_invite_permission":"","restrict_collab_to_company":false,"parent_hide_collaborators":false,"free_space_amount":53686356260,"parent_name":"All files and folders","max_upload_size":"10737418240","is_self_or_ancestor_collaborated":false,"is_trash_disabled":null,"is_trash_infinite":null,"trash_time":null,"tags":null,"thumb_class_x_small":"sprite_24x24_folder","collaborated":false,"shared_access":null,"shared_access_levels":null,"shared_download_off":null,"shared_views":null,"shared_link":null,"vanity_name":null,"custom_link":null,"direct_shared_link":null,"has_password":null,"user_is_owner":1,"owner":"Eric Swartz","owner_pic":"https:\/\/e1.boxcdn.net\/_assets\/img\/box\/box_user_avatar_small-QaPHWb.png","owner_is_free":false,"owner_enterprise_id":81319,"owner_disabled_shared_download":false,"owner_enterprise_display_domain":"Indiana University","owner_enterprise_desc_domain":"iu.edu, indiana.edu, iupui.edu, iuk.edu, iun.edu, iusb.edu, iue.edu, iupuc.edu, ius.edu, imail.iu.edu, umail.iu.edu, cs.indiana.edu, cs.iupui.edu, math.iupui.edu, incntre.iu.edu, regenstrief.org, acui.org","granted_permissions":{"item_restore":false,"item_delete_from_trash":false,"item_download":true,"item_create_collab":false,"item_create_view_path_collab":false,"item_create_comment":false,"item_create_tag":false,"item_create_task":false,"item_delete":false,"item_options":true,"item_preview":false,"item_rename":false,"item_set_share_access":false,"item_share":false,"item_synchronize":false,"item_upload":true,"item_view":true,"item_view_file_version":false,"item_remove":false,"item_can_non_owners_invite_collab":true,"create_instant_mode_authorization":false,"restore_from_quarantine":false,"delete_file_version":false,"make_version_current":false,"item_view_download_stats":false},"permissions":"douvj","removed_permissions":{"item_create_task":"item_is_not_a_file_or_file_version","item_synchronize":"subfolder_sync_disabled","item_view_file_version":"item_is_not_a_file_or_file_version","item_remove":"slave_status_Active","restore_from_quarantine":"item_is_not_a_file_or_file_version","delete_file_version":"item_is_not_a_file_or_file_version","make_version_current":"item_is_not_a_file_or_file_version"},"not_commentable":true,"downloadable":true,"available_permissions":{"Editor":"dcegknpstuvyfh","Co-owner":"dcegknopstuvyfhj","Viewer Uploader":"dcpstuvf","Previewer Uploader":"cptuv","Viewer":"dcpstvf","Previewer":"cptv","Uploader":"tuv"},"expirations":[],"can_change_share_expiration":null,"can_change_delete_expiration":null,"show_expiration_notice":null,"is_app_folder":false,"app_folder_icon":null,"service_name":null,"unidb_formats":["folder_info"]},"theme_22737":{"typed_id":"theme_22737","type":"theme","id":22737,"has_pic":true,"is_default_theme":false,"use_contrast_logo":false,"color_scheme_id":"","main_color":"7D110C","main_color_rollover":"3d0101","main_color_highlight":"961d16","main_color_shadow":"570300","main_color_washout":"EBEBEB","main_color_washout_faded":"f5f5f5","main_color_washout_shadow":"c4c4c4","main_rollover":null,"strong_text_color":"FFFFFF","link_text_color":"990000","item_hover_color":"e6b8b8","item_selected_color":"d99797","stand_out_color":"FF8000","background_color":"FFFFFF","has_header_logo_on_right":false,"footer_text":"IU Box Support? Contact your","footer_link_text":"Support Center","footer_link_url":"http:\/\/kb.iu.edu\/data\/abxl.html","custom_support_phone":"812-855-6789","custom_support_email":"ithelp@iu.edu","custom_support_url":"http:\/\/kb.iu.edu\/data\/bbro.html","theme_id":22737,"created":1314394611,"normal_text_color":"","login_text":"Box is designed as a flexible storage service and collaboration tool, but is not acceptable for any institutional data classified as \"limited access\/restricted\" or \"critical\".\r\n\r\nPlease review the <a style=\"font-family:Georgia; font-size: 15px;\" href=\"https:\/\/kb.iu.edu\/data\/bbyj.html\">Enterprise Box acceptable use responsibilities<\/a> for more information.\r\n\r\n<span style=\"text-align: center\"><a href=\"https:\/\/box.iu.edu\/TermsOfUse\">Terms of Use<\/a>  |  <a href=\"http:\/\/kb.iu.edu\/data\/bbro.html\">Help<\/a><\/span>","login_header_text":"Welcome to Box at IU","settings":1,"pic_path":"2012-07-30\/p4rjtu.jpg","email_footer_text":null,"in_product_marketing_text":"","pic_urls":{"small":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSBw9nfOhDq6RW8yXiHfdEb3pNOGvgv_pNIAoQhrh8gifloxslPKOKf2SrKK-jSRuFmWpjfV_EezIuuDDYQqrqBpmOiLETr1wOfNS3dLVFGPRmkAJj_xT6E2HR0iRadwBtNVGv7SVCxKoPYQQU-fwfT1RgvRXsL3pHdMcACtptBkn-ZLBOUwM5Se6AP-DBD_IsLTi3Kieqnd4JFNe3qZotktJ38NuF5mPv7miObqk7RXGck5tqUQE3YHoJVQWRXBIbQ,,","large":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSJPiWqENv1Gs4Ge3EqhJH8thsF2KDLujtQaudDblNkUJhwSlorotYsOao-5vfDBFbcaWNaFKl1Rxywm2xUO1phM_LVA7DXtol8zNDLwoEmeXlA7KnPmM1wOsuZuUjSoOxkGg7UlH_7KFAWTgByiKBps3jqMGoCYX7UBJXHiMGsqxGeGuVOcyEh6sp2wab-OY0-2wxCCsxhDkQo8oSReFHJw,","preview":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSI6nbBZjfJx6jQNxJStenHZjfR1X6wmJF27QWZc_KPuDDyh_xGTccoJmXSPcree9jFV_aHQg2urBEIkwPTyxsDsDvu86Eb5zqMCYNf2_02_4HlfCFaHWkutuXGtks4jr34kmkj2Z9fblsRulLaJP1oSj8RiG85qUSSfetj5Zv3LFkX7CWJM8JTuDz3uN1bzCoS4s7pJfL8RlBdsCyrMUJ9Q8O0C7jbgvn7bieWsqWfuhIH9KwUC-P1p4KpEL8rsF7A,,"},"header_img_url":null,"box_privacy_policy_removed":false,"main_pic_urls":{"small":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSBw9nfOhDq6RW8yXiHfdEb3pNOGvgv_pNIAoQhrh8gifloxslPKOKf2SrKK-jSRuFmWpjfV_EezIuuDDYQqrqBpmOiLETr1wOfNS3dLVFGPRmkAJj_xT6E2HR0iRadwBtNVGv7SVCxKoPYQQU-fwfT1RgvRXsL3pHdMcACtptBkn-ZLBOUwM5Se6AP-DBD_IsLTi3Kieqnd4JFNe3qZotktJ38NuF5mPv7miObqk7RXGck5tqUQE3YHoJVQWRXBIbQ,,","large":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSJPiWqENv1Gs4Ge3EqhJH8thsF2KDLujtQaudDblNkUJhwSlorotYsOao-5vfDBFbcaWNaFKl1Rxywm2xUO1phM_LVA7DXtol8zNDLwoEmeXlA7KnPmM1wOsuZuUjSoOxkGg7UlH_7KFAWTgByiKBps3jqMGoCYX7UBJXHiMGsqxGeGuVOcyEh6sp2wab-OY0-2wxCCsxhDkQo8oSReFHJw,","preview":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSI6nbBZjfJx6jQNxJStenHZjfR1X6wmJF27QWZc_KPuDDyh_xGTccoJmXSPcree9jFV_aHQg2urBEIkwPTyxsDsDvu86Eb5zqMCYNf2_02_4HlfCFaHWkutuXGtks4jr34kmkj2Z9fblsRulLaJP1oSj8RiG85qUSSfetj5Zv3LFkX7CWJM8JTuDz3uN1bzCoS4s7pJfL8RlBdsCyrMUJ9Q8O0C7jbgvn7bieWsqWfuhIH9KwUC-P1p4KpEL8rsF7A,,"},"login_header_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/header_bg_grayV2-I50Wh8.gif","login_footer_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/footer_bg_gray-leyLG8.gif","login_block_lb_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/block_lb_gray-SkInRp.gif","login_block_lt_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/block_lt_gray-JZ54oa.gif","login_block_rb_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/block_rb_gray-8Bz56b.gif","login_block_rt_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/block_rt_gray-im1gOO.gif","login_wrapper_img_url":"https:\/\/e1.boxcdn.net\/_assets\/img\/wrapper_bg_gray-rLA0BL.gif","public_enterprise_logo_urls":{"small":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSBw9nfOhDq6RW8yXiHfdEb3pNOGvgv_pNIAoQhrh8gifloxslPKOKf2SrKK-jSRuFmWpjfV_EezIuuDDYQqrqBoTDI5XDDlybphWU-I1mKxKcK1vk3CGWeU3IpJURDEpmqyMEp5OOoDd_NAn8f7Q7U9KXLMFwotIg1TQ5s_YD8ioaKV7t083sOjoZJGm6i3SXMFfaluFSdT2V1RIURztA-0,","large":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSJPiWqENv1Gs4Ge3EqhJH8thsF2KDLujtQaudDblNkUJhwSlorotYsOao-5vfDBFbcaWNaFKl1Rxywm2xUO1phNQnglQ_Vl2zxLcBzKNl5Dq1LqQ0klNMrJoiKsHW8WwwwNLX8Yp4NDWDOM4ILFPJmnPqFG4xkjF7e-hOeVwoir03rXsbrFVElfle9RDolcSuEX3omzzefCU-JfOMmUMif0,","preview":"https:\/\/iu.app.box.com\/index.php?rm=pic_storage_auth&pic=u5ANF7Q7VX59XaypPpBkiofR3iplj_h-FkZKzb9sxyXG4OHY8wsq-7Kxi0dL_q9QIDpf6KVEqgIDfrLu_v5gSI6nbBZjfJx6jQNxJStenHZjfR1X6wmJF27QWZc_KPuDDyh_xGTccoJmXSPcree9jFV_aHQg2urBEIkwPTyxsDsBZrMEb0_PMxog4bM9tNw-4LC98K_VBI1nuemOkzA2ETOb7BWYBa4yi4q7wonaAw5x0xeiITDgIgJOn4HGFYOQrTOdBUC6PuzBKb-5OZJSXnPfjTTxUsPSxB8F6GbXm74,","source":"theme"},"login_block_color":"#EBEBEB","uses_vip_branding":true,"unidb_formats":["complete"]}}}	,list_view = true	,expanded_list_view = true	,widget_api_urls = ''
+	,enable_download_message = 0	,show_email_blocked = false	,email_confirmation_grace_period_left = -1
+	,user_email = 'epswartz@iupui.edu'
+	,sso_groups_exceeded = ''	,shared_link_access_denied = false		,page_init_time = +new Date();
+
+</script><script type="text/x-template" id="jst-fake-item"><li class="item file fake-item"><div class="media"><div class="img"><div class="thumb_small <%=blank32%> <%=sprite32%>" style="background-image: <%=spriteElementStyle%>"></div><div class="thumb_large <%=blank80%> thumb_large_center <%=sprite80%>"  style="background-image: <%=spriteElementLargeStyle%>"></div><a href="#" class="icon_view_progress ur_corner sprite_9x9_delete item-cancel"></a><div class="cntr_progress inline_progress_icon_view icon_view_progress"><div class="progress_bar" style="width: 0%;"><div class="barber_pole"></div></div></div></div><div class="img_ext list_view_progress inline_progress_list_view"><div class="media"><a href="#" class="img_ext sprite_9x9_delete item-cancel"></a><div class="bd"><div class="cntr_progress"><div class="progress_bar" style="width: 0%;"><div class="barber_pole"></div></div></div><div class="note pts inline-progress-message"><%=inlineProgressMessage%></div></div></div></div><div class="item_data bd"><div class="item-name highlight"><%=fileName%></div><ul class="inline_list_ext"><li class="item-description"><%=fileDescription%></li><li class="item-size"><%=fileSize%></li></ul></div></div></li>
+</script><div id="mod-footer" class="module foot disable_selectable" data-module="legacy-footer" style="position:relative;"><div class="page"><span class="img_ext legal pvm" id="box_footer">IU Box Support? Contact your <a href="http://kb.iu.edu/data/abxl.html" class="lowlight" target="_blank">Support Center</a></span><ul class="inline_list_ext legal man" role="navigation"><li class="legal copyright mrn" role="contentinfo"><a href="https://iu.app.box.com/company" class="lowlight">Powered by Box ©2014</a></li><li class=""><a href="https://iu.app.box.com/company/contact-us" class="lowlight">Contact Box</a></li><li><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="lowlight" data-type="legal-link" data-url="https://iu.app.box.com/legal_text/tos">Terms</a></li><li><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="lowlight" data-type="legal-link" data-url="https://iu.app.box.com/legal_text/privacy_policy">Privacy Policy</a></li><li><a href="http://kb.iu.edu/data/bbro.html" class="lowlight" target="_blank" id="footer_help_link">Help</a></li><li class="last-child"><a href="https://iu.app.box.com/logout" class="lowlight">Log Out</a></li></ul></div></div><div id="global_blocker" style="opacity: 0.01; display: none;"><!-- --></div><script type="text/x-template" id="jst-filepicker-widget"><input tabindex="0" type="file" class="filepicker-widget" style="font-size: 100px; position: absolute; right: 0; top: 0; cursor: pointer; opacity: 0; filter: alpha(opacity=0); -ms-filter: alpha(opacity=0);">
+</script><script type="text/javascript" src="./Player1_files/section_application_static.min-2LAB0t.js" defer=""></script><script type="text/javascript" src="./Player1_files/section_application_p1.min-iMpd5i.js" defer=""></script><script type="text/javascript" src="./Player1_files/section_uploader.min-zGpnZ6.js" defer=""></script><script type="text/javascript" src="./Player1_files/section_lightbox_preview.min-88s5Bp.js" defer=""></script><script type="text/javascript" src="./Player1_files/section_templ_box_files.min-HqAoOc.js" defer=""></script><script type="text/javascript" src="data:text/javascript,window.Loader&&Loader.allScriptsLoaded();" defer=""></script><div class="cntr man drop_down" id="current_user_menu" style="display: none;"><div class="header_drop_down_arrow current_user_menu_arrow"><div class="header_drop_down_arrow_border"></div></div><ul class="list_menu hover_list"><li id="current_user_edit_profile" class="phm end_user_menu_only"><a href="https://iu.app.box.com/profile"><div class="media mvs" style="width: 180px;"><div id="current_user_menu_avatar" class="img mini_avatar_ext sprite_30x30 sprite_no_content" alt="" data-background-image="https://e1.boxcdn.net/_assets/img/box/box_user_avatar_large-M9h6O2.png"></div><div class="bd word-wrap"><p id="current_user_menu_email" class="ellipsis" style="width: 120px">epswartz@iupui.edu</p>Edit / View Profile</div></div></a><hr class="divider" style="margin: 0 0 -2px;"></li><li id="current_user_account_settings" class="end_user_menu_only"><a href="https://iu.app.box.com/settings"><span class="list_img sprite_16x16_gear"></span>Account Settings</a></li><li id="current_user_admin_settings" class="admin_menu_only"><a href="https://iu.app.box.com/master/settings"><span class="list_img sprite_16x16_gear"></span>Admin Settings</a></li><li id="current_user_business_solutions" class="end_user_menu_only"><a href="https://iu.app.box.com/business_solutions"><span class="list_img sprite_16x16_business_solutions"></span>Business Solutions</a></li><li id="current_user_upgrade" class="end_user_menu_only"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" data-view_id="upgrade_popup_{}"><span class="list_img sprite_16x16_pie"></span>Enterprise Account <span class="badge upgrade mls">UPGRADE</span></a></li><li id="current_user_get_box_sync"><a href="https://iu.app.box.com/settings/sync"><span class="list_img sprite_16x16_activity_install_sync"></span>Get Box Sync</a></li><li id="current_user_help"><a href="http://kb.iu.edu/data/bbro.html" target="_blank"><span class="list_img sprite_16x16_help"></span>Help</a></li><li id="current_user_logout"><a href="https://iu.app.box.com/logout"><span class="list_img sprite_16x16_close"></span>Log Out</a></li></ul></div><div class="cntr drop_down_ext dd_menu_box_item handle_menu_events" id="pim_sort_menu" style="display: none;"><div class="actions_menu_section"><div class="midlight pls pbs">Actions</div><ul class="list_menu hover_list item_menu"><li class="action_option mark_all_as_read"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Mark all as read</a></li></ul><div class="menu_divider mas"></div></div><div class="midlight pls pbs">Sort by</div><ul class="list_menu hover_list item_menu"><li id="pim_sort_link_date" class="sort_option" data-sort_type="date"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Date<span class="arrow"></span></a></li><li id="pim_sort_link_collaborator" class="sort_option" data-sort_type="collaborator"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Collaborator<span class="arrow"></span></a></li><li id="pim_sort_link_name" class="sort_option" data-sort_type="name"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" onclick="return false;">Name<span class="arrow"></span></a></li></ul></div><div id="lightbox" class="dark_background allow_right_click disable_selectable" tabindex="-1" style=""><div class="lightbox_header">
+<div class="module disable_selectable send_web_clicks " data-module="preview-header" data-file_typed_id="file_16213565547" id="preview_header"><script type="text/x-config">{"file_id_of_last_file_on_previous_page":"","file_id_of_first_file_on_next_page":"","total_num_files":8,"current_file_number":3}</script><ul class="inline_list inline_list_icon_aligned man"><li class="size2of5 pan"><ul class="file-info-container inline_list inline_list_icon_aligned mls"><li class="mls prn"><span id="preview_header_file_lock_icon" class="list_img sprite_preview_20x20_small_lock light_on_hover preview-title-icon"></span></li><li id="preview_file_title" class="light_on_hover preview_file_title ellipsis  mln prn" data-type="file-title"><span class="list_img info-icon sprite_preview_20x20_info preview-title-icon mrs"></span><span class="mrl prs item_name edit_in_place edit_in_place_inline mrs " data-url="/index.php?rm=box_files_update_item_info" data-field="name" data-item_id="16213565547" data-item_type="file" data-behavior="edit_in_place" data-validate="filename not_empty_item_type" data-edit-icon-sprite-class="sprite_preview_16x16_edit_in_place_pencil">Player1.psd</span></li></ul></li><li class="size1of5 pan center_contents preview_file_navigator"><ul class="inline_list inline_list_icon_aligned man"><li class="prn"><button class="lightbox_button pan man" data-type="previous-file-btn" data-hover="tooltip" aria-label="Go to previous file"><span class="icon mrn prn sprite_preview_20x20_previous_file preview_icon"></span></button></li><li class="prn"><span class="large_label filmstrip_button"><span class="file_count preview_icon">3 of 8 files</span></span></li><li class="prn"><button class="lightbox_button pan man" data-type="next-file-btn" data-hover="tooltip" aria-label="Go to next file"><span class="icon mrn prn sprite_preview_20x20_next_file preview_icon"></span></button></li></ul></li><li class="preview_header_buttons size2of5 txt_r pan"><button class="lightbox_button " data-type="share-btn" data-hover="tooltip" aria-label="Share"><span class="icon mrn prn sprite_preview_20x20_share preview_icon"></span><span class="btn_label">Share</span></button><button id="preview_header_comment_btn" class="lightbox_button " data-type="comment-btn" data-hover="tooltip" aria-label="Show or hide comments"><span class="icon mrn prn sprite_preview_20x20_comment preview_icon"></span><span class="btn_label">Comment</span></button><button class="lightbox_button" data-type="edit-btn" data-hover="tooltip" aria-label="Edit this file" data-htmltooltip="Edit this file"><span class="icon mrn prn sprite_preview_20x20_edit preview_icon"></span><span class="btn_label">Edit</span></button><button class="lightbox_button" data-type="download-btn" data-hover="tooltip" aria-label="Download" data-htmltooltip="Download"><span class="icon mrn prn sprite_preview_20x20_download preview_icon"></span><span class="btn_label">Download"</span></button><button class="lightbox_button more-btn" data-type="more-btn" aria-haspopup="true" aria-label="More options"><span class="icon mrn prn sprite_preview_20x20_more preview_icon"></span><span class="btn_label">More options</span></button><span class="close-btn-divider"></span><button class="lightbox_button close_preview_button" data-type="close-btn" data-hover="tooltip" aria-label="Press Esc to close preview"><span class="icon mrn prn sprite_preview_20x20_close_preview preview_icon"></span></button></li></ul></div><div id="file_info_layer" class="pvn drop_down_ext dd_menu_box_item handle_menu_events drop_down_ext_dark tooltip up" style="display:none;">
+	<div class="file_info_inner">
+							<a data-type="parent-folder-btn" href="https://iu.app.box.com/files/0/f/1846117755/coinCollector" class="file-info-btn">
+			<ul class="inline_list inline_list_icon_aligned line man ptm file_info_line">
+				<li class="unit size1of4 center_contents lh24">
+					<div class="icon sprite_preview_20x20_folder mls"></div>
+				</li>
+				<li class="unit size3of4 parent-folder-name pll lh20">
+					coinCollector
+				</li>
+			</ul>
+		</a>
+				<a data-type="version-history-btn" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="file-info-btn">
+			<ul class="inline_list inline_list_icon_aligned line man pbs file_info_line pvm">
+				<li class="unit size1of4 center_contents lh32">
+					<span class="version-history-badge small_label default_label_dark strong">V1</span>
+				</li>
+				<li class="unit size3of4 file_update pll lh16">
+					<div>Updated Apr 14, 2014</div>
+					<div>Corey Harris</div>
+				</li>
+			</ul>
+		</a>
+		<ul class="inline_list inline_list_icon_aligned lh20 line pvm">
+								<li id="file_info_size_num" class="unit size1of4 center_contents file_info_num strong large unclickable phm">38.4</li>
+		<li id="file_info_size_unit" class="unit size3of4 file_info_label uppercase pll unclickable">KB</li>
+	</ul>
+			<div style="display:none;">
+									
+			
+
+			<ul class="inline_list inline_list_icon_aligned lh20 line file_info_line pvm">
+				<li class="unit size1of4 center_contents num_views file_info_num strong large unclickable">0</li>
+				<li class="unit size3of4 file_info_label uppercase pll unclickable">Views</li>
+			</ul>
+			<ul class="inline_list inline_list_icon_aligned lh20 line pvm unclickable">
+				<li class="unit size1of4 center_contents file_info_num strong large unclickable">0</li>
+				<li class="unit size3of4 file_info_label uppercase pll unclickable">Downloads</li>
+			</ul>
+
+								</div>
+		</div>
+	<b class="beak"></b>
+</div><div class="cntr drop_down_ext dd_menu_box_item handle_menu_events drop_down_ext_dark tooltip up" id="lightbox_item_menu" style="display: none; margin-top: 1px;">
+	<ul class="list_menu hover_list">
+						<li class="preview_icon prl hidden" data-type="download-btn">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_preview_20x20_download mrl"></span>Download
+			</a>
+		</li>
+					<li class="preview_icon prl" data-type="upload-new-version-btn">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_upload mrl"></span>Upload New Version
+				</a>
+			</li>
+										<li id="unlock_file_btn" class="preview_icon prl" data-type="unlock-file-btn" style="display:none;">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_large_unlock mrl"></span>Unlock
+				</a>
+			</li>
+			<li id="lock_file_btn" class="preview_icon prl" data-type="lock-file-btn" style="display:none;">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_large_lock mrl"></span>Lock
+				</a>
+			</li>
+			<li id="request_unlock_btn" class="preview_icon prl" data-type="request-unlock-btn" style="display:none;">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_large_unlock mrl"></span>Request Unlock
+				</a>
+			</li>
+			<li id="free_user_lock_btn" class="preview_icon prl" data-type="free-user-lock-btn" style="display:none;">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_large_lock mrl"></span>Lock
+					<span class="mls small_label default_label_dark">UPGRADE</span>
+				</a>
+			</li>
+							<li class="preview_icon prl" data-type="move-copy-btn">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_movecopy mrl"></span>Move or Copy
+				</a>
+			</li>
+							<li class="preview_icon prl" data-type="delete-btn">
+				<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="list_img sprite_preview_20x20_delete mrl"></span>Delete
+				</a>
+			</li>
+		
+										
+		<li class="preview_icon prl" data-type="file-properties-btn">
+			<a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="list_img sprite_preview_20x20_info mrl"></span>File Properties
+			</a>
+		</li>
+			</ul>
+	<b class="beak"></b>
+</div><div class="unidb_data" style="display:none">{"type":"unidb","params":{"unidb":"file_16213565547"},"db":{"file_16213565547":{"typed_id":"f_16213565547","item_typed_id":"f_16213565547","type":"file","id":16213565547,"item_id":16213565547,"item_type":"file","name":"Player1.psd","small_thumb":"\/representation\/file_version_13451346159\/thumb_32_jpg.jpg","extension":"psd","parent":1846117755,"url_for_page_link":"\/files\/0\/f\/1846117755\/1\/f_16213565547","unidb_formats":["light_list"]}}}</div></div><div class="content_container curtain"><div class="preview-notification"></div><div class="content"><div class="module preview_content_wrapper preview-image" data-module="preview-image" id="mod-preview-image-1">
+	<div class="preview-image-container preview-content" data-type="preview-content" tabindex="-1">
+		<div class="preview-image-wrapper">
+			<div class="preview-image-wrapper-inner">
+				<div class="preview-image-content" style="background-image: url(https://iu.app.box.com/representation/file_version_13451346159/image_2048/1.png); visibility: visible; width: 100%; height: 100%; max-width: 98px; max-height: 192px;">
+					<div class="preview-image-click-target" data-type="preview-image" style="width: 100%; height: 100%; top: 0%; left: 0%;"></div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+<div class="preview-controls-container"><div class="preview-controls-container-inner"><div class="navbar navbar_inverse preview-controls" data-preview-type="image"><div class="navbar_inner"><ul class="inline_list mvn"><li class="navbar_control first"><button class="lightbox_button" aria-label="Zoom out" data-event="zoomout"><span class="sprite_preview_20x20_zoomout preview_icon"></span></button></li><li class="navbar_control"><button class="lightbox_button" aria-label="Zoom in" data-event="zoomin"><span class="sprite_preview_20x20_zoomin preview_icon"></span></button></li><li class="navbar_control rotate_button"><button class="lightbox_button" data-hover="tooltip" aria-label="Rotate left" data-event="rotateleft"><span class="sprite_preview_20x20_rotateleft preview_icon"></span></button></li><li class="navbar_control last fullscreen_button"><button class="lightbox_button" data-hover="tooltip" aria-label="Enter full screen" data-event="fullscreen"><span class="sprite_preview_14x14_fullscreen preview_icon"></span></button></li><li class="navbar_control last exit_fullscreen_button"><button class="lightbox_button" data-hover="tooltip" aria-label="Press Esc to exit full screen" data-event="exitfullscreen"><span class="sprite_preview_20x20_exit_fullscreen preview_icon"></span></button></li></ul></div></div></div></div>
+</div></div><div class="filmstrip fw fx"></div></div><div class="sidebar show-item-feed"><div class="sidebar_inner_container"><div id="sidebar_modules"><div id="mod-item-feed" class="module sidebar-item-feed" data-module="item-feed" data-item_typed_id="f_16213565547" data-parent_id="1846117755" style="height: 593px;">
+		<ul class="item_feed basic_list expansion man zoom1"><li class="item_feed_comment_container last-child" style="padding-bottom: 70px;"><div class="line prs break man"><div class="unit size1of6"><div class="sprite_28x28 item-feed-img center" style="background-image: url(&#39;https://e1.boxcdn.net/_assets/img/box/box_user_avatar_small-QaPHWb.png&#39;);"></div></div><ul class="unit size5of6 basic_list mvn"><li class="new_item_feed_prompt"><ul class="inline_list inline_list_icon_aligned line"><li class="unit size9of20 size9of20_ie txt_r prn sidebar_comment_label"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="pan" data-type="add-comment-link">Enter a Comment</a></li><li class="unit size1of10 txt_c prn">|</li><li class="unit size9of20 size9of20_ie txt_l prn sidebar_task_label"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" class="pan" data-type="add-task-link">Assign a Task</a></li></ul></li><li><div class="new_comment_entry_area" style="display: none;"><div style="position:relative;"><textarea class="comment_entry_textarea" placeholder="Enter a Comment" data-type="add-comment-textarea"></textarea><button class="lightbox_button cancel_comment_btn" data-type="cancel-new-comment-btn" data-hover="tooltip" aria-label="Cancel comment"><div class="sprite_16x16_close"></div></button></div><div class="mts"><button class="lightbox_button gray_button input_button man add_comment_button" data-type="submit-comment-btn">Add Comment</button></div></div><div id="new_task_entry_area" style="display:none;"></div></li></ul></div></li><script type="text/x-template" id="jst-item_feed_comment_reply_template"><li class="item_feed_comment_container item_feed_comment_reply"><div class="line prs break man"><div class="unit size1of6"><div class="sprite_28x28 item-feed-img center" style="background-image: url('https://e1.boxcdn.net/_assets/img/box/box_user_avatar_small-QaPHWb.png');"></div></div><ul class="unit size5of6 basic_list mvn"><li><div class="new_comment_entry_area"><textarea class="comment_entry_textarea" data-type="add-comment-textarea"></textarea><button class="lightbox_button cancel_comment_btn" data-type="<%=cancelButtonDataType%>" data-hover="tooltip" aria-label="Cancel comment"><div class="sprite_16x16_close"></div></button></div><div><button class="lightbox_button input_button man add_comment_button" data-type="<%=submitButtonDataType%>">Add Reply</button></div></li></ul></div></li></script><script type="text/x-template" id="jst-item_feed_generic_prompt_template"><div class="item_feed_prompt center_contents fh"><div class="table fw fh"><div class="table_cell fw fh txt_m"><strong class="white"><%=message%></strong><div class="mts"><button class="lightbox_button input_button pvs phm mrm" data-type="<%=yesButtonDataType%>">Yes</button><button class="lightbox_button input_button pvs phm mlm" data-type="<%=noButtonDataType%>">No</button></div></div></div></div></script><script type="text/x-template" id="jst-item_feed_task_edit_template"><div class="item_feed_task_edit prs"><ul class="inline_list inline_list_icon_aligned mtn"><li class="task_assignees"></li><li class="prn"><input id="task_due_date_input" class="task_due_date_input" readonly="readonly" /><button class="lightbox_button pan mhn task_due_date_btn" data-type="set-task-due-date-btn"><span class="icon mrn prn sprite_preview_20x20_calendar preview_icon"></span><span class="btn_label">Select Due Date</span></button></li></ul><div style="position: relative"><textarea class="task_entry_textarea" placeholder="Description" data-type="add-task-textarea"></textarea><button class="lightbox_button cancel_comment_btn" data-type="<%=cancelButtonDataType%>" data-hover="tooltip" aria-label="Cancel task"><div class="sprite_16x16_close"></div></button></div><div><button class="lightbox_button gray_button input_button man add_task_button mts" data-type="<%=submitButtonDataType%>"><%=submitButtonLabel%></button></div></div></script></ul>
+</div>
+</div></div><button class="lightbox_button toggle_sidebar_button"><span class="lightbox_button close_sidebar_button" data-hover="tooltip" aria-label="Close sidebar">»</span><span class="lightbox_button open_sidebar_button" data-hover="tooltip" aria-label="Open sidebar">«</span></button></div><div class="footer"><a id="lightbox-send-feedback-btn" class="ram clickable" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" data-subject="Feedback on the New Preview"><ul class="inline_list inline_list_icon_aligned fh mvn"><li class="mrs"><div class="sprite_preview_20x20_send_feedback preview_icon"></div></li><li class="mrn prn">Send Feedback</li></ul></a></div></div>
+<script type="text/x-template" id="jst-preview_loading_module_template"><div class="preview_content_wrapper">
+	<span class="vertical-alignment-helper"></span><img src="https://e1.boxcdn.net/_assets/img/box/spinner_big-ws0wIa.gif" class="preview_error_icon">
+</div>
+</script>
+<script type="text/x-template" id="jst-preview_filmstrip_loading_module_template"><div class="center_contents fw fh table">
+	<div class="fw fh table_cell txt_m">
+		<img id="filmstrip_loading_spinner" src="https://e1.boxcdn.net/_assets/img/box/spinner_big-ws0wIa.gif">
+	</div>
+</div>
+</script><script type="text/x-template" id="jst-tooltip_prototype">	<div id="tooltip_prototype" class="tooltip_wrapper">
+		<div class="tooltip">
+			<div class="inner">
+				<h4></h4>
+				<p></p>
+			</div>
+			<b class="beak"></b>
+		</div>
+	</div>
+</script><div id="popup-overlay" class="disable_selectable" style="display: none;"></div><div id="popup-container" class="ral disable_selectable" style="display: none;"></div>
+
+<script type="text/x-template" id="jst-popup-alert"><div id="popup-inner" class="pal"><a href="#" class="btn_label popup-accessibility-top-helper">&nbsp;</a><div id="popup-title" class="center_contents pbm"><h2 class="mbn"><%=title%></h2></div><div id="popup-content" class="phl mtl"><%=message%><div class="popup-buttons center_contents mtl"><button class="button_control " data-type="close-btn"><span class="button_val">Okay</span></button></div></div><a href="#" class="btn_label popup-accessibility-bottom-helper">&nbsp;</a></div>
+</script>
+<script type="text/x-template" id="jst-popup-confirm"><div id="popup-inner" class="pal"><a href="#" class="btn_label popup-accessibility-top-helper">&nbsp;</a><div id="popup-title" class="center_contents pbm"><h2 class="mbn"><%=title%></h2></div><div id="popup-content" class="phl mtl"><%=message%><div class="popup-buttons center_contents mtl"><button class="button_control " data-type="confirm-btn"><span class="button_val"><%=confirmText%></span></button><button class="button_control " data-type="cancel-btn"><span class="button_val"><%=cancelText%></span></button></div></div><div id="popup-spinner" class="center_contents">
+	<span class="spinner-background">
+		<span class="spinner spinner_gray">Processing...</span>
+	</span>
+</div><a href="#" class="btn_label popup-accessibility-bottom-helper">&nbsp;</a></div>
+</script><script type="text/x-template" id="jst-box_collaborator_permissions_grid">		<table class='tooltip_table bulleted_table'>
+		<thead>
+			<tr>
+				<th>Access Levels</th>
+				<td>Upload</td>
+				<td>Download</td>
+				<td>Preview</td>
+				<td>Get Link</td>
+				<td>Edit</td>
+				<td>Delete</td>
+				<td>Owner</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Co-owner:</th>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+			</tr>
+			<tr>
+				<th>Editor:</th>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Viewer Uploader:</th>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Previewer Uploader:</th>
+				<td>&bull;</td>
+				<td></td>
+				<td>&bull;</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Viewer:</th>
+				<td></td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td>&bull;</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Previewer:</th>
+				<td></td>
+				<td></td>
+				<td>&bull;</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Uploader:</th>
+				<td>&bull;</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+	<p>&nbsp;</p>
+</script><script type="text/x-template" id="jst-perpetual-scroll-loading"><li class="perpetual-scroll-loading"><div class="media center" style="width: 95px"><img alt="" class="img" width="18" height="18" src="https://e1.boxcdn.net/_assets/img/box/loader_t-uVJmzp.gif"><span class="bd">Loading...</span></div></li>
+</script><div class="module" data-module="preview-main" id="mod-preview-main-1"></div><script>var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-292868-1']);_gaq.push(['_setDomainName', 'box.com']);_gaq.push(['_trackPageview']);
+			onloadList.push(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = 'https://ssl.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			});
+		
+
+	onloadList.push(function() {
+		var imageLoader = Box.Application.getService('imageloader');
+		imageLoader.loadImages($('#mod-item-list')[0]);
+		imageLoader.loadImages($('#mod-item-list-updates')[0]);
+		imageLoader.loadImages($('#mod-sidebar-collaborators')[0]);
+		imageLoader.loadImages($('#dd_menu_create_item')[0]);
+		imageLoader.loadImages($('#account_info_sidebar_module')[0], true);
+        imageLoader.loadImages($('.sub_nav')[0]);
+	});
+
+	if (typeof(check_for_failure) != 'undefined')
+	{
+		if (window.removeEventListener)
+		{
+			window.removeEventListener("load", check_for_failure, false);
+		}
+		else if (window.detachEvent)
+		{
+			window.detachEvent("onload", check_for_failure);
+		}
+	}
+
+	onloadList.push(function envelope_onload() {
+
+		// All pages need to run this fix for the sidebar/footer positioning
+		Canvas.get().fix_page_ui_issues();
+
+		// Auto-process unidb tags from views
+		Box.Application.getService('unidb').loadTagsFromDocument();
+
+	});
+
+	window.onreadyList.push(function startLoadingDeferredAssets() {setTimeout(function() {var stylesheets = ['https://e1.boxcdn.net/_assets/css/section_files_postload-QDokbi.css'];var length = stylesheets.length;for (var i = 0; i < length; i++) {var postLoadStylesheet = document.createElement('link');postLoadStylesheet.href = stylesheets[i];postLoadStylesheet.rel = "stylesheet";var firstLink = document.getElementsByTagName('link')[0];firstLink.parentNode.appendChild(postLoadStylesheet);}var firstScript = document.getElementsByTagName('script')[0],postLoadScript;postLoadScript = document.createElement('script');postLoadScript.src = 'https://e2.boxcdn.net/_assets/js/section_application_postload.min-E1iqfH.js';postLoadScript.async = true;firstScript.parentNode.appendChild(postLoadScript);}, 0);});</script><div id="non_cdn" style="display: none; font-size: 16px; width: 960px; padding: 10px; border: 1px solid rgb(214, 255, 58); background-color: rgb(250, 255, 236); position: absolute; top: 66px; left: 50px; z-index: 5;">
+It appears that your firewall may be blocking Box or you are encountering an error.<br><br>Please contact your IT administrator to configure your firewall to recognize all sub-domains of .box.com, .box.net, .boxcloud.com and .boxcdn.net. The ports used on these domains are 80 and 443.<br>See our <a href="https://support.box.com/entries/20353437">Firewall FAQ</a>.<br><br>If that does not resolve the issue, then please submit a support ticket at <a target="_blank" href="https://iu.app.box.com/help">https://iu.app.box.com/help</a>.
+</div>
+
+<script type="text/javascript">
+setTimeout(function() {
+	var interval_id = setInterval(function() {
+		var non_cdn = document.getElementById("non_cdn");
+		if (typeof $j != 'function')
+		{
+			non_cdn.parentNode.removeChild(non_cdn);
+			non_cdn.style.position = 'static';
+			non_cdn.style.margin = '20px auto 20px auto';
+			document.body.insertBefore(non_cdn, document.body.childNodes[0]);
+			non_cdn.style.display = 'block';
+		}
+		else
+		{
+			clearInterval(interval_id);
+			non_cdn.style.display = 'none';
+		}
+	}, 500);
+}, 3500);
+</script>
+<div id="theme_preview_placeholder"></div>
+<div class="growl_notification_container"></div><div id="right_loading_message" class="ur_corner badge update large_badge" style="display: none;">Loading...</div><div id="selector" style="border: 1px solid rgb(0, 0, 170); position: absolute; z-index: 100; display: none;"><div style="background-color: rgb(0, 0, 255); opacity: 0.1;"></div></div><script src="./Player1_files/automation-info-message-qh0VCm.js"></script>
+
+
+<div class="cntr drop_down_ext handle_menu_events" id="dd_menu_create_item" style="display: none;">
+	<ul class="list_menu hover_list">
+		<li id="new_item_new_folder">
+			<a id="new_item_new_folder_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="sprite_16x16_small_typed_folder list_img"></span>
+				New Folder
+		</a></li>
+					<li id="new_item_new_webdoc">
+				<a id="new_item_new_webdoc_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="sprite_16x16_webdoc list_img"></span>
+					New Web Document
+			</a></li>
+						<li id="new_item_new_bookmark">
+			<a id="new_item_new_bookmark_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+				<span class="sprite_16x16_new_bookmark list_img"></span>
+				New Bookmark
+		</a></li>
+					<li class="separator pan ignore_mouseover"><hr class="divider"></li>
+							<li id="new_box_edit_word" class="new_file_type new_box_edit_file_type" data-newdoc_extension="doc" data-newdoc_type="box_edit_word">
+				<a id="new_box_edit_word_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="sprite_16x16 list_img" style="background-image: url(https://e1.boxcdn.net/_assets/img/box_edit_word_favicon-s72NjX.png);"></span>
+					New Word Document
+				</a>
+			</li>
+					<li id="new_box_edit_powerpoint" class="new_file_type new_box_edit_file_type" data-newdoc_extension="ppt" data-newdoc_type="box_edit_powerpoint">
+				<a id="new_box_edit_powerpoint_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="sprite_16x16 list_img" style="background-image: url(https://e1.boxcdn.net/_assets/img/box_edit_powerpoint_favicon-mqLzXH.png);"></span>
+					New PowerPoint Document
+				</a>
+			</li>
+					<li id="new_box_edit_excel" class="new_file_type new_box_edit_file_type" data-newdoc_extension="xls" data-newdoc_type="box_edit_excel">
+				<a id="new_box_edit_excel_link" href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#">
+					<span class="sprite_16x16 list_img" style="background-image: url(https://e1.boxcdn.net/_assets/img/box_edit_excel_favicon-Zd2bui.png);"></span>
+					New Excel Spreadsheet
+				</a>
+			</li>
+			</ul>
+</div>
+	<div id="features_open_on_desktop" style="position: absolute; left: -9999px; width: 10px;"></div>
+<div id="thumbnail" class="bubble square_bubble" style="left: 70.5px; top: 250.5px; background-image: url(https://iu.app.box.com/representation/file_version_13451346159/thumb_94.jpg?wait=1); background-color: rgb(255, 255, 255); display: none; background-position: 50% 50%; background-repeat: no-repeat no-repeat;"><div class="arrow"></div></div><div id="toaster" class="toaster" style="display: none; bottom: -50px;"><div class="cntr_progress" id="toaster_progress"><div class="progress_bar" style="width: 0;"><div class="barber_pole"></div></div></div><div class="media"><div class="img_ext"><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="toaster_hide">Hide</a><span id="toaster_separator">&nbsp;|&nbsp;</span><a href="https://iu.app.box.com/files/0/f/1846117755/1/f_16213565547#" id="toaster_cancel">Cancel</a></div><div id="toaster_message" class="bd">&nbsp;</div></div></div><object id="boxedit_object" style="position:fixed; bottom:0; left:0" type="application/x-boxedit" width="1" height="1"><param name="onload" value="pluginLoaded"></object></body></html>
